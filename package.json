@@ -1,0 +1,10 @@
+{
+  "name": "world-cup-2026-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "publish:public": "sh scripts/publish-public.sh"
+  }
+}
