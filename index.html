@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>2026 世界杯 Dashboard</title>
+    <meta
+      name="description"
+      content="查看 2026 世界杯每日赛程快报、即时战况、分组积分榜与每组对决预估。"
+    />
+    <meta name="theme-color" content="#08111f" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="世界杯快报" />
+    <link rel="icon" type="image/png" sizes="64x64" href="./assets/favicon-64-v2.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./assets/icon-192-v2.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon-v2.png" />
+    <link rel="manifest" href="./site.webmanifest" />
+    <link rel="stylesheet" href="./assets/styles.css?v=20260715-scoreboard-limit" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <h1>每日赛程快报与战况分析</h1>
+          <div class="hero-inline-meta" id="hero-inline-meta"></div>
+        </div>
+        <div class="hero-stats" id="hero-stats"></div>
+      </header>
+
+      <main class="layout">
+        <nav class="dashboard-tabs" aria-label="Dashboard 视图切换">
+          <button class="dashboard-tab is-active" type="button" data-view="fixtures">今日赛程</button>
+          <button class="dashboard-tab" type="button" data-view="knockout">淘汰赛</button>
+        </nav>
+
+        <section class="panel panel-wide dashboard-view dashboard-view-fixtures">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">Fixtures</p>
+              <h2>今日赛程与比分</h2>
+            </div>
+            <p class="update-text" id="fixtures-update-text">正在加载最新数据...</p>
+          </div>
+          <div class="match-grid" id="today-matches"></div>
+        </section>
+
+        <section class="panel panel-wide dashboard-view dashboard-view-fixtures">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">Tomorrow</p>
+              <h2>明日重点对决</h2>
+            </div>
+          </div>
+          <div class="match-grid" id="tomorrow-matches"></div>
+        </section>
+
+        <section class="panel panel-wide dashboard-view dashboard-view-groups is-hidden">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">Groups</p>
+              <h2>小组积分表 & AI出线趋势预估</h2>
+            </div>
+            <div class="qualification-legend" aria-label="晋级标识">
+              <span><i class="legend-direct"></i>直接晋级（前二）</span>
+              <span><i class="legend-potential"></i>潜在晋级（最佳小组第三）</span>
+            </div>
+          </div>
+          <div class="groups-grid" id="groups-grid"></div>
+        </section>
+
+        <section class="panel panel-wide dashboard-view dashboard-view-knockout is-hidden">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">Knockout</p>
+              <h2>32强对战表与冠军路径</h2>
+            </div>
+            <p class="update-text" id="knockout-summary-text"></p>
+          </div>
+          <div class="knockout-podium" id="knockout-podium"></div>
+          <div class="knockout-bracket" id="knockout-bracket"></div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <p>数据页面使用公开接口生成，适合日更快报与走势观察。</p>
+        <p>
+          <a id="fifa-schedule-link" href="#" target="_blank" rel="noreferrer">FIFA 官方赛程</a>
+          <span>·</span>
+          <a id="fifa-standings-link" href="#" target="_blank" rel="noreferrer">FIFA 官方积分榜</a>
+        </p>
+      </footer>
+    </div>
+
+    <script type="module" src="./assets/app.js?v=20260715-scoreboard-limit"></script>
+  </body>
+</html>
