@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-15T15:48:55.929Z",
-    "snapshotDate": "2026-07-15",
+    "generatedAt": "2026-07-15T17:38:06.988Z",
+    "snapshotDate": "2026-07-16",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
     "refreshCadenceLabel": "GitHub Pages 每 1 小时",
@@ -30,195 +30,15 @@
   },
   "headline": {
     "liveCount": 0,
-    "completedCount": 1,
-    "scheduledCount": 0,
-    "summary": "今天已完成 1 场比赛，另有 0 场待开球。",
-    "storylines": []
-  },
-  "today": {
-    "date": "2026-07-15",
-    "matches": [
-      {
-        "id": "760514",
-        "date": "2026-07-14T19:00Z",
-        "localKickoff": "07/15 03:00",
-        "stage": "FIFA World Cup, Semifinals",
-        "group": "Knockout",
-        "round": "半决赛",
-        "status": "post",
-        "statusLabel": "Full Time",
-        "shortDetail": "FT",
-        "shootout": null,
-        "venue": "AT&T Stadium",
-        "city": "Arlington, Texas",
-        "homeTeam": {
-          "id": "478",
-          "rawName": "France",
-          "name": "法国",
-          "shortName": "FRA",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-          "score": "0",
-          "penaltyScore": null,
-          "winner": false,
-          "record": "",
-          "form": "LWWWW",
-          "keyPlayer": null
-        },
-        "awayTeam": {
-          "id": "164",
-          "rawName": "Spain",
-          "name": "西班牙",
-          "shortName": "ESP",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-          "score": "2",
-          "penaltyScore": null,
-          "winner": true,
-          "record": "",
-          "form": "WWWWW",
-          "keyPlayer": null
-        },
-        "odds": null,
-        "preview": {
-          "lean": "暂无公开赔率",
-          "confidence": "低",
-          "heat": "低",
-          "probabilityModel": "unavailable",
-          "probabilities": [],
-          "summary": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-          "bettingSources": [],
-          "scoreOdds": null,
-          "marketUpdatePolicy": {
-            "label": "双信息更新",
-            "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
-          },
-          "aiPrediction": {
-            "model": "market-form-h2h-goals-poisson",
-            "outcomes": [
-              {
-                "key": "home",
-                "label": "法国胜",
-                "team": "法国",
-                "rawProbability": 33.8,
-                "probability": 35,
-                "reason": "法国近5场5胜0平0负，进13失1；市场基准33%。"
-              },
-              {
-                "key": "away",
-                "label": "西班牙胜",
-                "team": "西班牙",
-                "rawProbability": 32.2,
-                "probability": 33,
-                "reason": "西班牙近5场5胜0平0负，进11失1；市场基准33%。"
-              },
-              {
-                "key": "draw",
-                "label": "平局",
-                "team": "平局",
-                "rawProbability": 31.5,
-                "probability": 32,
-                "reason": "最近交锋 5-4，赛事 2024-25 UEFA Nations League；市场平局基准34%。"
-              }
-            ],
-            "scores": [
-              {
-                "label": "第一选项",
-                "score": "1-1",
-                "direction": "draw",
-                "outcomeLabel": "平局",
-                "probability": 11.72,
-                "reason": "综合最高概率比分，对应平局；模型预估进球 1.5-1.3"
-              },
-              {
-                "label": "第二选项",
-                "score": "2-1",
-                "direction": "home",
-                "outcomeLabel": "法国胜",
-                "probability": 8.91,
-                "reason": "次高概率比分，对应法国胜；模型预估进球 1.5-1.3"
-              },
-              {
-                "label": "冷门选项",
-                "score": "1-2",
-                "direction": "away",
-                "outcomeLabel": "西班牙胜",
-                "probability": 7.74,
-                "reason": "非主判断的高风险场景，对应西班牙胜；模型预估进球 1.5-1.3"
-              }
-            ],
-            "total": {
-              "pick": "大球",
-              "expectedGoals": 2.84,
-              "reason": "法国近5场场均进2.6、失0.2；西班牙场均进2.2、失0.2。"
-            },
-            "spread": {
-              "pick": "法国方向",
-              "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
-            },
-            "rationale": [
-              "市场基准：本场暂无稳定赔率概率，先以近况、交锋、进球模型与公开分析建立中性基准。",
-              "近期状态：法国5胜0平0负，进13失1；西班牙5胜0平0负，进11失1。",
-              "直接交锋：最近交锋 5-4，赛事 2024-25 UEFA Nations League。",
-              "关键球员：法国暂无公开领跑 / 西班牙暂无公开领跑。",
-              "淘汰赛进入16进8阶段，双方争胜意图更高，模型降低纯平局权重并提高主动进攻与总进球权重。"
-            ],
-            "externalSources": []
-          }
-        },
-        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760514/spain-france",
-        "analysisFactors": [
-          {
-            "label": "赔率市场",
-            "value": "暂无赔率",
-            "detail": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-            "status": "neutral"
-          },
-          {
-            "label": "近期状态",
-            "value": "5胜0平0负",
-            "detail": "法国 近 5 场进 13 球、失 1 球。",
-            "status": "positive"
-          },
-          {
-            "label": "近期状态",
-            "value": "5胜0平0负",
-            "detail": "西班牙 近 5 场进 11 球、失 1 球。",
-            "status": "positive"
-          },
-          {
-            "label": "历史交锋",
-            "value": "5场记录",
-            "detail": "最近一次：5-4，赛事为 2024-25 UEFA Nations League。",
-            "status": "neutral"
-          },
-          {
-            "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
-          },
-          {
-            "label": "小组压力",
-            "value": "暂无 / 暂无",
-            "detail": "法国 当前记录 暂无，西班牙 当前记录 暂无；同分时净胜球会显著影响排序。",
-            "status": "neutral"
-          },
-          {
-            "label": "关键球员",
-            "value": "暂无领跑数据",
-            "detail": "公开接口暂未返回本场明确的进球领跑球员。",
-            "status": "neutral"
-          },
-          {
-            "label": "场地/旅程",
-            "value": "Arlington, Texas",
-            "detail": "比赛地：AT&T Stadium，Arlington, Texas。",
-            "status": "neutral"
-          }
-        ]
-      }
+    "completedCount": 0,
+    "scheduledCount": 1,
+    "summary": "今天已完成 0 场比赛，另有 1 场待开球。",
+    "storylines": [
+      "今天还有 1 场比赛未开球，赛前预估会只保留在未开赛场次。",
+      "未开赛场次会继续显示赔率概率、盘口变化和多因素分析，方便赛前快速判断。"
     ]
   },
-  "tomorrow": {
+  "today": {
     "date": "2026-07-16",
     "matches": [
       {
@@ -301,7 +121,7 @@
                 "odds": "+175"
               },
               "close": {
-                "odds": "+200",
+                "odds": "+205",
                 "link": {
                   "rel": [
                     "away",
@@ -326,7 +146,7 @@
                 "odds": "+205"
               },
               "close": {
-                "odds": "+190",
+                "odds": "+185",
                 "link": {
                   "rel": [
                     "draw",
@@ -357,7 +177,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "+160",
+                "odds": "+155",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -417,7 +237,7 @@
               },
               "close": {
                 "line": "o2.5",
-                "odds": "+135",
+                "odds": "+140",
                 "link": {
                   "rel": [
                     "over",
@@ -445,7 +265,7 @@
               },
               "close": {
                 "line": "u2.5",
-                "odds": "-170",
+                "odds": "-175",
                 "link": {
                   "rel": [
                     "under",
@@ -481,25 +301,25 @@
               "odds": 165,
               "oddsLabel": "+165",
               "rawProbability": 0.37735849056603776,
-              "probability": 35
+              "probability": 36
             },
             {
               "key": "draw",
               "label": "平局",
               "team": "平局",
-              "odds": 190,
-              "oddsLabel": "+190",
-              "rawProbability": 0.3448275862068966,
+              "odds": 185,
+              "oddsLabel": "+185",
+              "rawProbability": 0.3508771929824561,
               "probability": 33
             },
             {
               "key": "away",
               "label": "阿根廷胜",
               "team": "阿根廷",
-              "odds": 200,
-              "oddsLabel": "+200",
-              "rawProbability": 0.3333333333333333,
-              "probability": 32
+              "odds": 205,
+              "oddsLabel": "+205",
+              "rawProbability": 0.32786885245901637,
+              "probability": 31
             }
           ],
           "bettingSources": [
@@ -508,7 +328,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -527,16 +347,16 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "3.05",
-                      "current": "2.90",
-                      "movement": "+1.7pct",
+                      "current": "2.85",
+                      "movement": "+2.3pct",
                       "direction": "up"
                     },
                     {
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "2.75",
-                      "current": "3.00",
-                      "movement": "-3.0pct",
+                      "current": "3.05",
+                      "movement": "-3.6pct",
                       "direction": "down"
                     }
                   ]
@@ -549,8 +369,8 @@
                       "label": "英格兰",
                       "line": "-0.5",
                       "open": "1.48",
-                      "current": "2.60",
-                      "movement": "-29.3pct",
+                      "current": "2.55",
+                      "movement": "-28.5pct",
                       "direction": "down"
                     },
                     {
@@ -571,16 +391,16 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "2.25",
-                      "current": "2.35",
-                      "movement": "-1.9pct",
+                      "current": "2.40",
+                      "movement": "-2.8pct",
                       "direction": "down"
                     },
                     {
                       "label": "小球",
                       "line": "u2.5",
                       "open": "1.65",
-                      "current": "1.59",
-                      "movement": "+2.2pct",
+                      "current": "1.57",
+                      "movement": "+2.9pct",
                       "direction": "up"
                     }
                   ]
@@ -592,7 +412,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -612,7 +432,7 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.91",
+                      "current": "2.86",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -620,7 +440,7 @@
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "3.01",
+                      "current": "3.06",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -635,7 +455,7 @@
                       "label": "英格兰",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.60",
+                      "current": "2.56",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -643,7 +463,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.50",
+                      "current": "1.51",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -658,7 +478,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.35",
+                      "current": "2.40",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -666,7 +486,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.59",
+                      "current": "1.57",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -679,7 +499,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -699,7 +519,7 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.88",
+                      "current": "2.83",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -707,94 +527,7 @@
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.98",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                },
-                {
-                  "name": "让分",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "英格兰",
-                      "line": "-0.5",
-                      "open": "N/A",
-                      "current": "2.57",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "阿根廷",
-                      "line": "+0.5",
-                      "open": "N/A",
-                      "current": "1.48",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                },
-                {
-                  "name": "大小球",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "大球",
-                      "line": "o2.5",
-                      "open": "N/A",
-                      "current": "2.33",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "小球",
-                      "line": "u2.5",
-                      "open": "N/A",
-                      "current": "1.58",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "立博",
-              "status": "modeled",
-              "statusLabel": "模型折算",
-              "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
-              "statusNote": "",
-              "markets": [
-                {
-                  "name": "胜平负",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "英格兰胜",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.60",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "平局",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.85",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "阿根廷胜",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.94",
+                      "current": "3.03",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -817,7 +550,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.47",
+                      "current": "1.49",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -832,7 +565,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.30",
+                      "current": "2.38",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -840,7 +573,94 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.56",
+                      "current": "1.55",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "立博",
+              "status": "modeled",
+              "statusLabel": "模型折算",
+              "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
+              "statusNote": "",
+              "markets": [
+                {
+                  "name": "胜平负",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "英格兰胜",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "2.60",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "平局",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "2.80",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "阿根廷胜",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "3.00",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                },
+                {
+                  "name": "让分",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "英格兰",
+                      "line": "-0.5",
+                      "open": "N/A",
+                      "current": "2.51",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "阿根廷",
+                      "line": "+0.5",
+                      "open": "N/A",
+                      "current": "1.48",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                },
+                {
+                  "name": "大小球",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "大球",
+                      "line": "o2.5",
+                      "open": "N/A",
+                      "current": "2.35",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "小球",
+                      "line": "u2.5",
+                      "open": "N/A",
+                      "current": "1.54",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -856,38 +676,38 @@
               {
                 "score": "1-1",
                 "direction": "draw",
-                "probability": 16.33,
+                "probability": 16.61,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "5.82"
+                    "current": "5.72"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "5.75"
+                    "current": "5.66"
                   },
                   {
                     "name": "立博",
-                    "current": "5.69"
+                    "current": "5.60"
                   }
                 ]
               },
               {
                 "score": "0-0",
                 "direction": "draw",
-                "probability": 9.8,
+                "probability": 9.97,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "9.69"
+                    "current": "9.53"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "9.59"
+                    "current": "9.43"
                   },
                   {
                     "name": "立博",
-                    "current": "9.49"
+                    "current": "9.33"
                   }
                 ]
               },
@@ -898,11 +718,11 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "11.46"
+                    "current": "11.47"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "11.34"
+                    "current": "11.35"
                   },
                   {
                     "name": "立博",
@@ -913,30 +733,30 @@
               {
                 "score": "0-1",
                 "direction": "away",
-                "probability": 7.32,
+                "probability": 7.2,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "12.97"
+                    "current": "13.20"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "12.84"
+                    "current": "13.06"
                   },
                   {
                     "name": "立博",
-                    "current": "12.70"
+                    "current": "12.92"
                   }
                 ]
               },
               {
                 "score": "2-0",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -951,11 +771,11 @@
               {
                 "score": "2-1",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -970,38 +790,38 @@
               {
                 "score": "0-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "1-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               }
@@ -1010,38 +830,38 @@
               {
                 "score": "1-1",
                 "direction": "draw",
-                "probability": 16.33,
+                "probability": 16.61,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "5.82"
+                    "current": "5.72"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "5.75"
+                    "current": "5.66"
                   },
                   {
                     "name": "立博",
-                    "current": "5.69"
+                    "current": "5.60"
                   }
                 ]
               },
               {
                 "score": "0-0",
                 "direction": "draw",
-                "probability": 9.8,
+                "probability": 9.97,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "9.69"
+                    "current": "9.53"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "9.59"
+                    "current": "9.43"
                   },
                   {
                     "name": "立博",
-                    "current": "9.49"
+                    "current": "9.33"
                   }
                 ]
               },
@@ -1052,11 +872,11 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "11.46"
+                    "current": "11.47"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "11.34"
+                    "current": "11.35"
                   },
                   {
                     "name": "立博",
@@ -1067,30 +887,30 @@
               {
                 "score": "0-1",
                 "direction": "away",
-                "probability": 7.32,
+                "probability": 7.2,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "12.97"
+                    "current": "13.20"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "12.84"
+                    "current": "13.06"
                   },
                   {
                     "name": "立博",
-                    "current": "12.70"
+                    "current": "12.92"
                   }
                 ]
               },
               {
                 "score": "2-0",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -1105,11 +925,11 @@
               {
                 "score": "2-1",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -1124,133 +944,133 @@
               {
                 "score": "0-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "1-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "2-2",
                 "direction": "draw",
-                "probability": 4.9,
+                "probability": 4.98,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "19.39"
+                    "current": "19.06"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "19.18"
+                    "current": "18.86"
                   },
                   {
                     "name": "立博",
-                    "current": "18.98"
+                    "current": "18.66"
                   }
                 ]
               },
               {
                 "score": "3-0",
                 "direction": "home",
-                "probability": 4.15,
+                "probability": 4.14,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "22.92"
+                    "current": "22.93"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "22.68"
+                    "current": "22.69"
                   },
                   {
                     "name": "立博",
-                    "current": "22.44"
+                    "current": "22.45"
                   }
                 ]
               },
               {
                 "score": "3-1",
                 "direction": "home",
-                "probability": 4.15,
+                "probability": 4.14,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "22.92"
+                    "current": "22.93"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "22.68"
+                    "current": "22.69"
                   },
                   {
                     "name": "立博",
-                    "current": "22.44"
+                    "current": "22.45"
                   }
                 ]
               },
               {
                 "score": "0-3",
                 "direction": "away",
-                "probability": 3.66,
+                "probability": 3.6,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "25.95"
+                    "current": "26.39"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "25.67"
+                    "current": "26.12"
                   },
                   {
                     "name": "立博",
-                    "current": "25.40"
+                    "current": "25.84"
                   }
                 ]
               },
               {
                 "score": "1-3",
                 "direction": "away",
-                "probability": 3.66,
+                "probability": 3.6,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "25.95"
+                    "current": "26.39"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "25.67"
+                    "current": "26.12"
                   },
                   {
                     "name": "立博",
-                    "current": "25.40"
+                    "current": "25.84"
                   }
                 ]
               },
@@ -1261,53 +1081,53 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "36.67"
+                    "current": "36.69"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "36.28"
+                    "current": "36.30"
                   },
                   {
                     "name": "立博",
-                    "current": "35.90"
+                    "current": "35.92"
                   }
                 ]
               },
               {
                 "score": "2-3",
                 "direction": "away",
-                "probability": 2.29,
+                "probability": 2.25,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "41.51"
+                    "current": "42.23"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "41.08"
+                    "current": "41.78"
                   },
                   {
                     "name": "立博",
-                    "current": "40.64"
+                    "current": "41.34"
                   }
                 ]
               },
               {
                 "score": "3-3",
                 "direction": "draw",
-                "probability": 1.63,
+                "probability": 1.66,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "58.16"
+                    "current": "57.19"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "57.55"
+                    "current": "56.59"
                   },
                   {
                     "name": "立博",
-                    "current": "56.93"
+                    "current": "55.98"
                   }
                 ]
               },
@@ -1318,15 +1138,15 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "61.12"
+                    "current": "61.15"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "60.47"
+                    "current": "60.51"
                   },
                   {
                     "name": "立博",
-                    "current": "59.83"
+                    "current": "59.86"
                   }
                 ]
               },
@@ -1337,53 +1157,53 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "61.12"
+                    "current": "61.15"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "60.47"
+                    "current": "60.51"
                   },
                   {
                     "name": "立博",
-                    "current": "59.83"
+                    "current": "59.86"
                   }
                 ]
               },
               {
                 "score": "0-4",
                 "direction": "away",
-                "probability": 1.37,
+                "probability": 1.35,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "69.19"
+                    "current": "70.38"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "68.46"
+                    "current": "69.64"
                   },
                   {
                     "name": "立博",
-                    "current": "67.73"
+                    "current": "68.90"
                   }
                 ]
               },
               {
                 "score": "1-4",
                 "direction": "away",
-                "probability": 1.37,
+                "probability": 1.35,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "69.19"
+                    "current": "70.38"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "68.46"
+                    "current": "69.64"
                   },
                   {
                     "name": "立博",
-                    "current": "67.73"
+                    "current": "68.90"
                   }
                 ]
               }
@@ -1393,7 +1213,7 @@
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
           },
-          "summary": "赔率隐含概率更偏向 英格兰，约 35%，倾向强度为低。",
+          "summary": "赔率隐含概率更偏向 英格兰，约 36%，倾向强度为低。",
           "aiPrediction": {
             "model": "market-form-h2h-goals-poisson",
             "outcomes": [
@@ -1401,17 +1221,17 @@
                 "key": "away",
                 "label": "阿根廷胜",
                 "team": "阿根廷",
-                "rawProbability": 35.4,
-                "probability": 36,
-                "reason": "阿根廷近5场5胜0平0负，进14失6；市场基准32%。"
+                "rawProbability": 34.4,
+                "probability": 35,
+                "reason": "阿根廷近5场5胜0平0负，进14失6；市场基准31%。"
               },
               {
                 "key": "home",
                 "label": "英格兰胜",
                 "team": "英格兰",
-                "rawProbability": 30.4,
-                "probability": 32,
-                "reason": "英格兰近5场4胜1平0负，进9失4；市场基准35%。"
+                "rawProbability": 31.4,
+                "probability": 33,
+                "reason": "英格兰近5场4胜1平0负，进9失4；市场基准36%。"
               },
               {
                 "key": "draw",
@@ -1428,29 +1248,29 @@
                 "score": "1-2",
                 "direction": "away",
                 "outcomeLabel": "阿根廷胜",
-                "probability": 8.36,
-                "reason": "综合最高概率比分，对应阿根廷胜；模型预估进球 1.7-1.9"
+                "probability": 8.18,
+                "reason": "综合最高概率比分，对应阿根廷胜；模型预估进球 1.8-1.9"
               },
               {
                 "label": "第二选项",
                 "score": "1-1",
                 "direction": "draw",
                 "outcomeLabel": "平局",
-                "probability": 8.66,
-                "reason": "次高概率比分，对应平局；模型预估进球 1.7-1.9"
+                "probability": 8.72,
+                "reason": "次高概率比分，对应平局；模型预估进球 1.8-1.9"
               },
               {
                 "label": "冷门选项",
                 "score": "2-1",
                 "direction": "home",
                 "outcomeLabel": "英格兰胜",
-                "probability": 7.41,
-                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.7-1.9"
+                "probability": 7.66,
+                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.8-1.9"
               }
             ],
             "total": {
               "pick": "大球 o2.5",
-              "expectedGoals": 3.64,
+              "expectedGoals": 3.63,
               "reason": "英格兰近5场场均进1.8、失0.8；阿根廷场均进2.8、失1.2。"
             },
             "spread": {
@@ -1458,7 +1278,7 @@
               "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
             },
             "rationale": [
-              "市场基准：英格兰胜35% / 平33% / 阿根廷胜32%。",
+              "市场基准：英格兰胜36% / 平33% / 阿根廷胜31%。",
               "近期状态：英格兰4胜1平0负，进9失4；阿根廷5胜0平0负，进14失6。",
               "直接交锋：最近交锋 3-2，赛事 International Friendly。",
               "关键球员：Harry Kane 6 / Lionel Messi 8。",
@@ -1472,7 +1292,7 @@
           {
             "label": "赔率市场",
             "value": "英格兰 低",
-            "detail": "赔率隐含概率更偏向 英格兰，约 35%，倾向强度为低。",
+            "detail": "赔率隐含概率更偏向 英格兰，约 36%，倾向强度为低。",
             "status": "positive"
           },
           {
@@ -1520,6 +1340,10 @@
         ]
       }
     ]
+  },
+  "tomorrow": {
+    "date": "2026-07-17",
+    "matches": []
   },
   "knockout": {
     "title": "32强对战表与冠军路径",
@@ -3171,131 +2995,9 @@
           "marketUpdatePolicy": {
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
-          },
-          "aiPrediction": {
-            "model": "market-form-h2h-goals-poisson",
-            "outcomes": [
-              {
-                "key": "home",
-                "label": "法国胜",
-                "team": "法国",
-                "rawProbability": 33.8,
-                "probability": 35,
-                "reason": "法国近5场5胜0平0负，进13失1；市场基准33%。"
-              },
-              {
-                "key": "away",
-                "label": "西班牙胜",
-                "team": "西班牙",
-                "rawProbability": 32.2,
-                "probability": 33,
-                "reason": "西班牙近5场5胜0平0负，进11失1；市场基准33%。"
-              },
-              {
-                "key": "draw",
-                "label": "平局",
-                "team": "平局",
-                "rawProbability": 31.5,
-                "probability": 32,
-                "reason": "最近交锋 5-4，赛事 2024-25 UEFA Nations League；市场平局基准34%。"
-              }
-            ],
-            "scores": [
-              {
-                "label": "第一选项",
-                "score": "1-1",
-                "direction": "draw",
-                "outcomeLabel": "平局",
-                "probability": 11.72,
-                "reason": "综合最高概率比分，对应平局；模型预估进球 1.5-1.3"
-              },
-              {
-                "label": "第二选项",
-                "score": "2-1",
-                "direction": "home",
-                "outcomeLabel": "法国胜",
-                "probability": 8.91,
-                "reason": "次高概率比分，对应法国胜；模型预估进球 1.5-1.3"
-              },
-              {
-                "label": "冷门选项",
-                "score": "1-2",
-                "direction": "away",
-                "outcomeLabel": "西班牙胜",
-                "probability": 7.74,
-                "reason": "非主判断的高风险场景，对应西班牙胜；模型预估进球 1.5-1.3"
-              }
-            ],
-            "total": {
-              "pick": "大球",
-              "expectedGoals": 2.84,
-              "reason": "法国近5场场均进2.6、失0.2；西班牙场均进2.2、失0.2。"
-            },
-            "spread": {
-              "pick": "法国方向",
-              "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
-            },
-            "rationale": [
-              "市场基准：本场暂无稳定赔率概率，先以近况、交锋、进球模型与公开分析建立中性基准。",
-              "近期状态：法国5胜0平0负，进13失1；西班牙5胜0平0负，进11失1。",
-              "直接交锋：最近交锋 5-4，赛事 2024-25 UEFA Nations League。",
-              "关键球员：法国暂无公开领跑 / 西班牙暂无公开领跑。",
-              "淘汰赛进入16进8阶段，双方争胜意图更高，模型降低纯平局权重并提高主动进攻与总进球权重。"
-            ],
-            "externalSources": []
           }
         },
-        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760514/spain-france",
-        "analysisFactors": [
-          {
-            "label": "赔率市场",
-            "value": "暂无赔率",
-            "detail": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-            "status": "neutral"
-          },
-          {
-            "label": "近期状态",
-            "value": "5胜0平0负",
-            "detail": "法国 近 5 场进 13 球、失 1 球。",
-            "status": "positive"
-          },
-          {
-            "label": "近期状态",
-            "value": "5胜0平0负",
-            "detail": "西班牙 近 5 场进 11 球、失 1 球。",
-            "status": "positive"
-          },
-          {
-            "label": "历史交锋",
-            "value": "5场记录",
-            "detail": "最近一次：5-4，赛事为 2024-25 UEFA Nations League。",
-            "status": "neutral"
-          },
-          {
-            "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
-          },
-          {
-            "label": "小组压力",
-            "value": "暂无 / 暂无",
-            "detail": "法国 当前记录 暂无，西班牙 当前记录 暂无；同分时净胜球会显著影响排序。",
-            "status": "neutral"
-          },
-          {
-            "label": "关键球员",
-            "value": "暂无领跑数据",
-            "detail": "公开接口暂未返回本场明确的进球领跑球员。",
-            "status": "neutral"
-          },
-          {
-            "label": "场地/旅程",
-            "value": "Arlington, Texas",
-            "detail": "比赛地：AT&T Stadium，Arlington, Texas。",
-            "status": "neutral"
-          }
-        ]
+        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760514/spain-france"
       },
       {
         "id": "760515",
@@ -3377,7 +3079,7 @@
                 "odds": "+175"
               },
               "close": {
-                "odds": "+200",
+                "odds": "+205",
                 "link": {
                   "rel": [
                     "away",
@@ -3402,7 +3104,7 @@
                 "odds": "+205"
               },
               "close": {
-                "odds": "+190",
+                "odds": "+185",
                 "link": {
                   "rel": [
                     "draw",
@@ -3433,7 +3135,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "+160",
+                "odds": "+155",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -3493,7 +3195,7 @@
               },
               "close": {
                 "line": "o2.5",
-                "odds": "+135",
+                "odds": "+140",
                 "link": {
                   "rel": [
                     "over",
@@ -3521,7 +3223,7 @@
               },
               "close": {
                 "line": "u2.5",
-                "odds": "-170",
+                "odds": "-175",
                 "link": {
                   "rel": [
                     "under",
@@ -3557,25 +3259,25 @@
               "odds": 165,
               "oddsLabel": "+165",
               "rawProbability": 0.37735849056603776,
-              "probability": 35
+              "probability": 36
             },
             {
               "key": "draw",
               "label": "平局",
               "team": "平局",
-              "odds": 190,
-              "oddsLabel": "+190",
-              "rawProbability": 0.3448275862068966,
+              "odds": 185,
+              "oddsLabel": "+185",
+              "rawProbability": 0.3508771929824561,
               "probability": 33
             },
             {
               "key": "away",
               "label": "阿根廷胜",
               "team": "阿根廷",
-              "odds": 200,
-              "oddsLabel": "+200",
-              "rawProbability": 0.3333333333333333,
-              "probability": 32
+              "odds": 205,
+              "oddsLabel": "+205",
+              "rawProbability": 0.32786885245901637,
+              "probability": 31
             }
           ],
           "bettingSources": [
@@ -3584,7 +3286,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3603,16 +3305,16 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "3.05",
-                      "current": "2.90",
-                      "movement": "+1.7pct",
+                      "current": "2.85",
+                      "movement": "+2.3pct",
                       "direction": "up"
                     },
                     {
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "2.75",
-                      "current": "3.00",
-                      "movement": "-3.0pct",
+                      "current": "3.05",
+                      "movement": "-3.6pct",
                       "direction": "down"
                     }
                   ]
@@ -3625,8 +3327,8 @@
                       "label": "英格兰",
                       "line": "-0.5",
                       "open": "1.48",
-                      "current": "2.60",
-                      "movement": "-29.3pct",
+                      "current": "2.55",
+                      "movement": "-28.5pct",
                       "direction": "down"
                     },
                     {
@@ -3647,16 +3349,16 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "2.25",
-                      "current": "2.35",
-                      "movement": "-1.9pct",
+                      "current": "2.40",
+                      "movement": "-2.8pct",
                       "direction": "down"
                     },
                     {
                       "label": "小球",
                       "line": "u2.5",
                       "open": "1.65",
-                      "current": "1.59",
-                      "movement": "+2.2pct",
+                      "current": "1.57",
+                      "movement": "+2.9pct",
                       "direction": "up"
                     }
                   ]
@@ -3668,7 +3370,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3688,7 +3390,7 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.91",
+                      "current": "2.86",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3696,7 +3398,7 @@
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "3.01",
+                      "current": "3.06",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3711,7 +3413,7 @@
                       "label": "英格兰",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.60",
+                      "current": "2.56",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3719,7 +3421,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.50",
+                      "current": "1.51",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3734,7 +3436,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.35",
+                      "current": "2.40",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3742,7 +3444,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.59",
+                      "current": "1.57",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3755,7 +3457,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3775,7 +3477,7 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.88",
+                      "current": "2.83",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3783,94 +3485,7 @@
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.98",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                },
-                {
-                  "name": "让分",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "英格兰",
-                      "line": "-0.5",
-                      "open": "N/A",
-                      "current": "2.57",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "阿根廷",
-                      "line": "+0.5",
-                      "open": "N/A",
-                      "current": "1.48",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                },
-                {
-                  "name": "大小球",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "大球",
-                      "line": "o2.5",
-                      "open": "N/A",
-                      "current": "2.33",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "小球",
-                      "line": "u2.5",
-                      "open": "N/A",
-                      "current": "1.58",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "立博",
-              "status": "modeled",
-              "statusLabel": "模型折算",
-              "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
-              "statusNote": "",
-              "markets": [
-                {
-                  "name": "胜平负",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "英格兰胜",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.60",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "平局",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.85",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "阿根廷胜",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.94",
+                      "current": "3.03",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3893,7 +3508,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.47",
+                      "current": "1.49",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3908,7 +3523,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.30",
+                      "current": "2.38",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3916,7 +3531,94 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.56",
+                      "current": "1.55",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "立博",
+              "status": "modeled",
+              "statusLabel": "模型折算",
+              "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
+              "statusNote": "",
+              "markets": [
+                {
+                  "name": "胜平负",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "英格兰胜",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "2.60",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "平局",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "2.80",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "阿根廷胜",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "3.00",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                },
+                {
+                  "name": "让分",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "英格兰",
+                      "line": "-0.5",
+                      "open": "N/A",
+                      "current": "2.51",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "阿根廷",
+                      "line": "+0.5",
+                      "open": "N/A",
+                      "current": "1.48",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                },
+                {
+                  "name": "大小球",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "大球",
+                      "line": "o2.5",
+                      "open": "N/A",
+                      "current": "2.35",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "小球",
+                      "line": "u2.5",
+                      "open": "N/A",
+                      "current": "1.54",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3932,38 +3634,38 @@
               {
                 "score": "1-1",
                 "direction": "draw",
-                "probability": 16.33,
+                "probability": 16.61,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "5.82"
+                    "current": "5.72"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "5.75"
+                    "current": "5.66"
                   },
                   {
                     "name": "立博",
-                    "current": "5.69"
+                    "current": "5.60"
                   }
                 ]
               },
               {
                 "score": "0-0",
                 "direction": "draw",
-                "probability": 9.8,
+                "probability": 9.97,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "9.69"
+                    "current": "9.53"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "9.59"
+                    "current": "9.43"
                   },
                   {
                     "name": "立博",
-                    "current": "9.49"
+                    "current": "9.33"
                   }
                 ]
               },
@@ -3974,11 +3676,11 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "11.46"
+                    "current": "11.47"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "11.34"
+                    "current": "11.35"
                   },
                   {
                     "name": "立博",
@@ -3989,30 +3691,30 @@
               {
                 "score": "0-1",
                 "direction": "away",
-                "probability": 7.32,
+                "probability": 7.2,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "12.97"
+                    "current": "13.20"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "12.84"
+                    "current": "13.06"
                   },
                   {
                     "name": "立博",
-                    "current": "12.70"
+                    "current": "12.92"
                   }
                 ]
               },
               {
                 "score": "2-0",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -4027,11 +3729,11 @@
               {
                 "score": "2-1",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -4046,38 +3748,38 @@
               {
                 "score": "0-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "1-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               }
@@ -4086,38 +3788,38 @@
               {
                 "score": "1-1",
                 "direction": "draw",
-                "probability": 16.33,
+                "probability": 16.61,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "5.82"
+                    "current": "5.72"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "5.75"
+                    "current": "5.66"
                   },
                   {
                     "name": "立博",
-                    "current": "5.69"
+                    "current": "5.60"
                   }
                 ]
               },
               {
                 "score": "0-0",
                 "direction": "draw",
-                "probability": 9.8,
+                "probability": 9.97,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "9.69"
+                    "current": "9.53"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "9.59"
+                    "current": "9.43"
                   },
                   {
                     "name": "立博",
-                    "current": "9.49"
+                    "current": "9.33"
                   }
                 ]
               },
@@ -4128,11 +3830,11 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "11.46"
+                    "current": "11.47"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "11.34"
+                    "current": "11.35"
                   },
                   {
                     "name": "立博",
@@ -4143,30 +3845,30 @@
               {
                 "score": "0-1",
                 "direction": "away",
-                "probability": 7.32,
+                "probability": 7.2,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "12.97"
+                    "current": "13.20"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "12.84"
+                    "current": "13.06"
                   },
                   {
                     "name": "立博",
-                    "current": "12.70"
+                    "current": "12.92"
                   }
                 ]
               },
               {
                 "score": "2-0",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -4181,11 +3883,11 @@
               {
                 "score": "2-1",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -4200,133 +3902,133 @@
               {
                 "score": "0-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "1-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "2-2",
                 "direction": "draw",
-                "probability": 4.9,
+                "probability": 4.98,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "19.39"
+                    "current": "19.06"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "19.18"
+                    "current": "18.86"
                   },
                   {
                     "name": "立博",
-                    "current": "18.98"
+                    "current": "18.66"
                   }
                 ]
               },
               {
                 "score": "3-0",
                 "direction": "home",
-                "probability": 4.15,
+                "probability": 4.14,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "22.92"
+                    "current": "22.93"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "22.68"
+                    "current": "22.69"
                   },
                   {
                     "name": "立博",
-                    "current": "22.44"
+                    "current": "22.45"
                   }
                 ]
               },
               {
                 "score": "3-1",
                 "direction": "home",
-                "probability": 4.15,
+                "probability": 4.14,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "22.92"
+                    "current": "22.93"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "22.68"
+                    "current": "22.69"
                   },
                   {
                     "name": "立博",
-                    "current": "22.44"
+                    "current": "22.45"
                   }
                 ]
               },
               {
                 "score": "0-3",
                 "direction": "away",
-                "probability": 3.66,
+                "probability": 3.6,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "25.95"
+                    "current": "26.39"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "25.67"
+                    "current": "26.12"
                   },
                   {
                     "name": "立博",
-                    "current": "25.40"
+                    "current": "25.84"
                   }
                 ]
               },
               {
                 "score": "1-3",
                 "direction": "away",
-                "probability": 3.66,
+                "probability": 3.6,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "25.95"
+                    "current": "26.39"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "25.67"
+                    "current": "26.12"
                   },
                   {
                     "name": "立博",
-                    "current": "25.40"
+                    "current": "25.84"
                   }
                 ]
               },
@@ -4337,53 +4039,53 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "36.67"
+                    "current": "36.69"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "36.28"
+                    "current": "36.30"
                   },
                   {
                     "name": "立博",
-                    "current": "35.90"
+                    "current": "35.92"
                   }
                 ]
               },
               {
                 "score": "2-3",
                 "direction": "away",
-                "probability": 2.29,
+                "probability": 2.25,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "41.51"
+                    "current": "42.23"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "41.08"
+                    "current": "41.78"
                   },
                   {
                     "name": "立博",
-                    "current": "40.64"
+                    "current": "41.34"
                   }
                 ]
               },
               {
                 "score": "3-3",
                 "direction": "draw",
-                "probability": 1.63,
+                "probability": 1.66,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "58.16"
+                    "current": "57.19"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "57.55"
+                    "current": "56.59"
                   },
                   {
                     "name": "立博",
-                    "current": "56.93"
+                    "current": "55.98"
                   }
                 ]
               },
@@ -4394,15 +4096,15 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "61.12"
+                    "current": "61.15"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "60.47"
+                    "current": "60.51"
                   },
                   {
                     "name": "立博",
-                    "current": "59.83"
+                    "current": "59.86"
                   }
                 ]
               },
@@ -4413,53 +4115,53 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "61.12"
+                    "current": "61.15"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "60.47"
+                    "current": "60.51"
                   },
                   {
                     "name": "立博",
-                    "current": "59.83"
+                    "current": "59.86"
                   }
                 ]
               },
               {
                 "score": "0-4",
                 "direction": "away",
-                "probability": 1.37,
+                "probability": 1.35,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "69.19"
+                    "current": "70.38"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "68.46"
+                    "current": "69.64"
                   },
                   {
                     "name": "立博",
-                    "current": "67.73"
+                    "current": "68.90"
                   }
                 ]
               },
               {
                 "score": "1-4",
                 "direction": "away",
-                "probability": 1.37,
+                "probability": 1.35,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "69.19"
+                    "current": "70.38"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "68.46"
+                    "current": "69.64"
                   },
                   {
                     "name": "立博",
-                    "current": "67.73"
+                    "current": "68.90"
                   }
                 ]
               }
@@ -4469,7 +4171,7 @@
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
           },
-          "summary": "赔率隐含概率更偏向 英格兰，约 35%，倾向强度为低。",
+          "summary": "赔率隐含概率更偏向 英格兰，约 36%，倾向强度为低。",
           "aiPrediction": {
             "model": "market-form-h2h-goals-poisson",
             "outcomes": [
@@ -4477,17 +4179,17 @@
                 "key": "away",
                 "label": "阿根廷胜",
                 "team": "阿根廷",
-                "rawProbability": 35.4,
-                "probability": 36,
-                "reason": "阿根廷近5场5胜0平0负，进14失6；市场基准32%。"
+                "rawProbability": 34.4,
+                "probability": 35,
+                "reason": "阿根廷近5场5胜0平0负，进14失6；市场基准31%。"
               },
               {
                 "key": "home",
                 "label": "英格兰胜",
                 "team": "英格兰",
-                "rawProbability": 30.4,
-                "probability": 32,
-                "reason": "英格兰近5场4胜1平0负，进9失4；市场基准35%。"
+                "rawProbability": 31.4,
+                "probability": 33,
+                "reason": "英格兰近5场4胜1平0负，进9失4；市场基准36%。"
               },
               {
                 "key": "draw",
@@ -4504,29 +4206,29 @@
                 "score": "1-2",
                 "direction": "away",
                 "outcomeLabel": "阿根廷胜",
-                "probability": 8.36,
-                "reason": "综合最高概率比分，对应阿根廷胜；模型预估进球 1.7-1.9"
+                "probability": 8.18,
+                "reason": "综合最高概率比分，对应阿根廷胜；模型预估进球 1.8-1.9"
               },
               {
                 "label": "第二选项",
                 "score": "1-1",
                 "direction": "draw",
                 "outcomeLabel": "平局",
-                "probability": 8.66,
-                "reason": "次高概率比分，对应平局；模型预估进球 1.7-1.9"
+                "probability": 8.72,
+                "reason": "次高概率比分，对应平局；模型预估进球 1.8-1.9"
               },
               {
                 "label": "冷门选项",
                 "score": "2-1",
                 "direction": "home",
                 "outcomeLabel": "英格兰胜",
-                "probability": 7.41,
-                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.7-1.9"
+                "probability": 7.66,
+                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.8-1.9"
               }
             ],
             "total": {
               "pick": "大球 o2.5",
-              "expectedGoals": 3.64,
+              "expectedGoals": 3.63,
               "reason": "英格兰近5场场均进1.8、失0.8；阿根廷场均进2.8、失1.2。"
             },
             "spread": {
@@ -4534,7 +4236,7 @@
               "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
             },
             "rationale": [
-              "市场基准：英格兰胜35% / 平33% / 阿根廷胜32%。",
+              "市场基准：英格兰胜36% / 平33% / 阿根廷胜31%。",
               "近期状态：英格兰4胜1平0负，进9失4；阿根廷5胜0平0负，进14失6。",
               "直接交锋：最近交锋 3-2，赛事 International Friendly。",
               "关键球员：Harry Kane 6 / Lionel Messi 8。",
@@ -4548,7 +4250,7 @@
           {
             "label": "赔率市场",
             "value": "英格兰 低",
-            "detail": "赔率隐含概率更偏向 英格兰，约 35%，倾向强度为低。",
+            "detail": "赔率隐含概率更偏向 英格兰，约 36%，倾向强度为低。",
             "status": "positive"
           },
           {
@@ -4970,7 +4672,7 @@
                 "odds": "+175"
               },
               "close": {
-                "odds": "+200",
+                "odds": "+205",
                 "link": {
                   "rel": [
                     "away",
@@ -4995,7 +4697,7 @@
                 "odds": "+205"
               },
               "close": {
-                "odds": "+190",
+                "odds": "+185",
                 "link": {
                   "rel": [
                     "draw",
@@ -5026,7 +4728,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "+160",
+                "odds": "+155",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -5086,7 +4788,7 @@
               },
               "close": {
                 "line": "o2.5",
-                "odds": "+135",
+                "odds": "+140",
                 "link": {
                   "rel": [
                     "over",
@@ -5114,7 +4816,7 @@
               },
               "close": {
                 "line": "u2.5",
-                "odds": "-170",
+                "odds": "-175",
                 "link": {
                   "rel": [
                     "under",
@@ -5150,25 +4852,25 @@
               "odds": 165,
               "oddsLabel": "+165",
               "rawProbability": 0.37735849056603776,
-              "probability": 35
+              "probability": 36
             },
             {
               "key": "draw",
               "label": "平局",
               "team": "平局",
-              "odds": 190,
-              "oddsLabel": "+190",
-              "rawProbability": 0.3448275862068966,
+              "odds": 185,
+              "oddsLabel": "+185",
+              "rawProbability": 0.3508771929824561,
               "probability": 33
             },
             {
               "key": "away",
               "label": "阿根廷胜",
               "team": "阿根廷",
-              "odds": 200,
-              "oddsLabel": "+200",
-              "rawProbability": 0.3333333333333333,
-              "probability": 32
+              "odds": 205,
+              "oddsLabel": "+205",
+              "rawProbability": 0.32786885245901637,
+              "probability": 31
             }
           ],
           "bettingSources": [
@@ -5177,7 +4879,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5196,16 +4898,16 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "3.05",
-                      "current": "2.90",
-                      "movement": "+1.7pct",
+                      "current": "2.85",
+                      "movement": "+2.3pct",
                       "direction": "up"
                     },
                     {
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "2.75",
-                      "current": "3.00",
-                      "movement": "-3.0pct",
+                      "current": "3.05",
+                      "movement": "-3.6pct",
                       "direction": "down"
                     }
                   ]
@@ -5218,8 +4920,8 @@
                       "label": "英格兰",
                       "line": "-0.5",
                       "open": "1.48",
-                      "current": "2.60",
-                      "movement": "-29.3pct",
+                      "current": "2.55",
+                      "movement": "-28.5pct",
                       "direction": "down"
                     },
                     {
@@ -5240,16 +4942,16 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "2.25",
-                      "current": "2.35",
-                      "movement": "-1.9pct",
+                      "current": "2.40",
+                      "movement": "-2.8pct",
                       "direction": "down"
                     },
                     {
                       "label": "小球",
                       "line": "u2.5",
                       "open": "1.65",
-                      "current": "1.59",
-                      "movement": "+2.2pct",
+                      "current": "1.57",
+                      "movement": "+2.9pct",
                       "direction": "up"
                     }
                   ]
@@ -5261,7 +4963,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5281,7 +4983,7 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.91",
+                      "current": "2.86",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5289,7 +4991,7 @@
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "3.01",
+                      "current": "3.06",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5304,7 +5006,7 @@
                       "label": "英格兰",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.60",
+                      "current": "2.56",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5312,7 +5014,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.50",
+                      "current": "1.51",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5327,7 +5029,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.35",
+                      "current": "2.40",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5335,7 +5037,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.59",
+                      "current": "1.57",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5348,7 +5050,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5368,7 +5070,7 @@
                       "label": "平局",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.88",
+                      "current": "2.83",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5376,94 +5078,7 @@
                       "label": "阿根廷胜",
                       "line": "N/A",
                       "open": "N/A",
-                      "current": "2.98",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                },
-                {
-                  "name": "让分",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "英格兰",
-                      "line": "-0.5",
-                      "open": "N/A",
-                      "current": "2.57",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "阿根廷",
-                      "line": "+0.5",
-                      "open": "N/A",
-                      "current": "1.48",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                },
-                {
-                  "name": "大小球",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "大球",
-                      "line": "o2.5",
-                      "open": "N/A",
-                      "current": "2.33",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "小球",
-                      "line": "u2.5",
-                      "open": "N/A",
-                      "current": "1.58",
-                      "movement": "-",
-                      "direction": "flat"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "立博",
-              "status": "modeled",
-              "statusLabel": "模型折算",
-              "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
-              "updatedAt": "2026-07-15T15:48:55.929Z",
-              "statusNote": "",
-              "markets": [
-                {
-                  "name": "胜平负",
-                  "available": true,
-                  "model": "draftkings-fair-probability-vig",
-                  "selections": [
-                    {
-                      "label": "英格兰胜",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.60",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "平局",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.85",
-                      "movement": "-",
-                      "direction": "flat"
-                    },
-                    {
-                      "label": "阿根廷胜",
-                      "line": "N/A",
-                      "open": "N/A",
-                      "current": "2.94",
+                      "current": "3.03",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5486,7 +5101,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.47",
+                      "current": "1.49",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5501,7 +5116,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.30",
+                      "current": "2.38",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5509,7 +5124,94 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.56",
+                      "current": "1.55",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "立博",
+              "status": "modeled",
+              "statusLabel": "模型折算",
+              "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34384863",
+              "updatedAt": "2026-07-15T17:38:06.988Z",
+              "statusNote": "",
+              "markets": [
+                {
+                  "name": "胜平负",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "英格兰胜",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "2.60",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "平局",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "2.80",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "阿根廷胜",
+                      "line": "N/A",
+                      "open": "N/A",
+                      "current": "3.00",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                },
+                {
+                  "name": "让分",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "英格兰",
+                      "line": "-0.5",
+                      "open": "N/A",
+                      "current": "2.51",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "阿根廷",
+                      "line": "+0.5",
+                      "open": "N/A",
+                      "current": "1.48",
+                      "movement": "-",
+                      "direction": "flat"
+                    }
+                  ]
+                },
+                {
+                  "name": "大小球",
+                  "available": true,
+                  "model": "draftkings-fair-probability-vig",
+                  "selections": [
+                    {
+                      "label": "大球",
+                      "line": "o2.5",
+                      "open": "N/A",
+                      "current": "2.35",
+                      "movement": "-",
+                      "direction": "flat"
+                    },
+                    {
+                      "label": "小球",
+                      "line": "u2.5",
+                      "open": "N/A",
+                      "current": "1.54",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5525,38 +5227,38 @@
               {
                 "score": "1-1",
                 "direction": "draw",
-                "probability": 16.33,
+                "probability": 16.61,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "5.82"
+                    "current": "5.72"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "5.75"
+                    "current": "5.66"
                   },
                   {
                     "name": "立博",
-                    "current": "5.69"
+                    "current": "5.60"
                   }
                 ]
               },
               {
                 "score": "0-0",
                 "direction": "draw",
-                "probability": 9.8,
+                "probability": 9.97,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "9.69"
+                    "current": "9.53"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "9.59"
+                    "current": "9.43"
                   },
                   {
                     "name": "立博",
-                    "current": "9.49"
+                    "current": "9.33"
                   }
                 ]
               },
@@ -5567,11 +5269,11 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "11.46"
+                    "current": "11.47"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "11.34"
+                    "current": "11.35"
                   },
                   {
                     "name": "立博",
@@ -5582,30 +5284,30 @@
               {
                 "score": "0-1",
                 "direction": "away",
-                "probability": 7.32,
+                "probability": 7.2,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "12.97"
+                    "current": "13.20"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "12.84"
+                    "current": "13.06"
                   },
                   {
                     "name": "立博",
-                    "current": "12.70"
+                    "current": "12.92"
                   }
                 ]
               },
               {
                 "score": "2-0",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -5620,11 +5322,11 @@
               {
                 "score": "2-1",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -5639,38 +5341,38 @@
               {
                 "score": "0-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "1-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               }
@@ -5679,38 +5381,38 @@
               {
                 "score": "1-1",
                 "direction": "draw",
-                "probability": 16.33,
+                "probability": 16.61,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "5.82"
+                    "current": "5.72"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "5.75"
+                    "current": "5.66"
                   },
                   {
                     "name": "立博",
-                    "current": "5.69"
+                    "current": "5.60"
                   }
                 ]
               },
               {
                 "score": "0-0",
                 "direction": "draw",
-                "probability": 9.8,
+                "probability": 9.97,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "9.69"
+                    "current": "9.53"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "9.59"
+                    "current": "9.43"
                   },
                   {
                     "name": "立博",
-                    "current": "9.49"
+                    "current": "9.33"
                   }
                 ]
               },
@@ -5721,11 +5423,11 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "11.46"
+                    "current": "11.47"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "11.34"
+                    "current": "11.35"
                   },
                   {
                     "name": "立博",
@@ -5736,30 +5438,30 @@
               {
                 "score": "0-1",
                 "direction": "away",
-                "probability": 7.32,
+                "probability": 7.2,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "12.97"
+                    "current": "13.20"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "12.84"
+                    "current": "13.06"
                   },
                   {
                     "name": "立博",
-                    "current": "12.70"
+                    "current": "12.92"
                   }
                 ]
               },
               {
                 "score": "2-0",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -5774,11 +5476,11 @@
               {
                 "score": "2-1",
                 "direction": "home",
-                "probability": 6.74,
+                "probability": 6.73,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "14.10"
+                    "current": "14.11"
                   },
                   {
                     "name": "威廉希尔",
@@ -5793,133 +5495,133 @@
               {
                 "score": "0-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "1-2",
                 "direction": "away",
-                "probability": 5.95,
+                "probability": 5.85,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "15.97"
+                    "current": "16.24"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "15.80"
+                    "current": "16.07"
                   },
                   {
                     "name": "立博",
-                    "current": "15.63"
+                    "current": "15.90"
                   }
                 ]
               },
               {
                 "score": "2-2",
                 "direction": "draw",
-                "probability": 4.9,
+                "probability": 4.98,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "19.39"
+                    "current": "19.06"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "19.18"
+                    "current": "18.86"
                   },
                   {
                     "name": "立博",
-                    "current": "18.98"
+                    "current": "18.66"
                   }
                 ]
               },
               {
                 "score": "3-0",
                 "direction": "home",
-                "probability": 4.15,
+                "probability": 4.14,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "22.92"
+                    "current": "22.93"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "22.68"
+                    "current": "22.69"
                   },
                   {
                     "name": "立博",
-                    "current": "22.44"
+                    "current": "22.45"
                   }
                 ]
               },
               {
                 "score": "3-1",
                 "direction": "home",
-                "probability": 4.15,
+                "probability": 4.14,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "22.92"
+                    "current": "22.93"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "22.68"
+                    "current": "22.69"
                   },
                   {
                     "name": "立博",
-                    "current": "22.44"
+                    "current": "22.45"
                   }
                 ]
               },
               {
                 "score": "0-3",
                 "direction": "away",
-                "probability": 3.66,
+                "probability": 3.6,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "25.95"
+                    "current": "26.39"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "25.67"
+                    "current": "26.12"
                   },
                   {
                     "name": "立博",
-                    "current": "25.40"
+                    "current": "25.84"
                   }
                 ]
               },
               {
                 "score": "1-3",
                 "direction": "away",
-                "probability": 3.66,
+                "probability": 3.6,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "25.95"
+                    "current": "26.39"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "25.67"
+                    "current": "26.12"
                   },
                   {
                     "name": "立博",
-                    "current": "25.40"
+                    "current": "25.84"
                   }
                 ]
               },
@@ -5930,53 +5632,53 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "36.67"
+                    "current": "36.69"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "36.28"
+                    "current": "36.30"
                   },
                   {
                     "name": "立博",
-                    "current": "35.90"
+                    "current": "35.92"
                   }
                 ]
               },
               {
                 "score": "2-3",
                 "direction": "away",
-                "probability": 2.29,
+                "probability": 2.25,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "41.51"
+                    "current": "42.23"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "41.08"
+                    "current": "41.78"
                   },
                   {
                     "name": "立博",
-                    "current": "40.64"
+                    "current": "41.34"
                   }
                 ]
               },
               {
                 "score": "3-3",
                 "direction": "draw",
-                "probability": 1.63,
+                "probability": 1.66,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "58.16"
+                    "current": "57.19"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "57.55"
+                    "current": "56.59"
                   },
                   {
                     "name": "立博",
-                    "current": "56.93"
+                    "current": "55.98"
                   }
                 ]
               },
@@ -5987,15 +5689,15 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "61.12"
+                    "current": "61.15"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "60.47"
+                    "current": "60.51"
                   },
                   {
                     "name": "立博",
-                    "current": "59.83"
+                    "current": "59.86"
                   }
                 ]
               },
@@ -6006,53 +5708,53 @@
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "61.12"
+                    "current": "61.15"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "60.47"
+                    "current": "60.51"
                   },
                   {
                     "name": "立博",
-                    "current": "59.83"
+                    "current": "59.86"
                   }
                 ]
               },
               {
                 "score": "0-4",
                 "direction": "away",
-                "probability": 1.37,
+                "probability": 1.35,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "69.19"
+                    "current": "70.38"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "68.46"
+                    "current": "69.64"
                   },
                   {
                     "name": "立博",
-                    "current": "67.73"
+                    "current": "68.90"
                   }
                 ]
               },
               {
                 "score": "1-4",
                 "direction": "away",
-                "probability": 1.37,
+                "probability": 1.35,
                 "rows": [
                   {
                     "name": "Bet365",
-                    "current": "69.19"
+                    "current": "70.38"
                   },
                   {
                     "name": "威廉希尔",
-                    "current": "68.46"
+                    "current": "69.64"
                   },
                   {
                     "name": "立博",
-                    "current": "67.73"
+                    "current": "68.90"
                   }
                 ]
               }
@@ -6062,7 +5764,7 @@
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
           },
-          "summary": "赔率隐含概率更偏向 英格兰，约 35%，倾向强度为低。",
+          "summary": "赔率隐含概率更偏向 英格兰，约 36%，倾向强度为低。",
           "aiPrediction": {
             "model": "market-form-h2h-goals-poisson",
             "outcomes": [
@@ -6070,17 +5772,17 @@
                 "key": "away",
                 "label": "阿根廷胜",
                 "team": "阿根廷",
-                "rawProbability": 35.4,
-                "probability": 36,
-                "reason": "阿根廷近5场5胜0平0负，进14失6；市场基准32%。"
+                "rawProbability": 34.4,
+                "probability": 35,
+                "reason": "阿根廷近5场5胜0平0负，进14失6；市场基准31%。"
               },
               {
                 "key": "home",
                 "label": "英格兰胜",
                 "team": "英格兰",
-                "rawProbability": 30.4,
-                "probability": 32,
-                "reason": "英格兰近5场4胜1平0负，进9失4；市场基准35%。"
+                "rawProbability": 31.4,
+                "probability": 33,
+                "reason": "英格兰近5场4胜1平0负，进9失4；市场基准36%。"
               },
               {
                 "key": "draw",
@@ -6097,29 +5799,29 @@
                 "score": "1-2",
                 "direction": "away",
                 "outcomeLabel": "阿根廷胜",
-                "probability": 8.36,
-                "reason": "综合最高概率比分，对应阿根廷胜；模型预估进球 1.7-1.9"
+                "probability": 8.18,
+                "reason": "综合最高概率比分，对应阿根廷胜；模型预估进球 1.8-1.9"
               },
               {
                 "label": "第二选项",
                 "score": "1-1",
                 "direction": "draw",
                 "outcomeLabel": "平局",
-                "probability": 8.66,
-                "reason": "次高概率比分，对应平局；模型预估进球 1.7-1.9"
+                "probability": 8.72,
+                "reason": "次高概率比分，对应平局；模型预估进球 1.8-1.9"
               },
               {
                 "label": "冷门选项",
                 "score": "2-1",
                 "direction": "home",
                 "outcomeLabel": "英格兰胜",
-                "probability": 7.41,
-                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.7-1.9"
+                "probability": 7.66,
+                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.8-1.9"
               }
             ],
             "total": {
               "pick": "大球 o2.5",
-              "expectedGoals": 3.64,
+              "expectedGoals": 3.63,
               "reason": "英格兰近5场场均进1.8、失0.8；阿根廷场均进2.8、失1.2。"
             },
             "spread": {
@@ -6127,7 +5829,7 @@
               "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
             },
             "rationale": [
-              "市场基准：英格兰胜35% / 平33% / 阿根廷胜32%。",
+              "市场基准：英格兰胜36% / 平33% / 阿根廷胜31%。",
               "近期状态：英格兰4胜1平0负，进9失4；阿根廷5胜0平0负，进14失6。",
               "直接交锋：最近交锋 3-2，赛事 International Friendly。",
               "关键球员：Harry Kane 6 / Lionel Messi 8。",
@@ -6141,7 +5843,7 @@
           {
             "label": "赔率市场",
             "value": "英格兰 低",
-            "detail": "赔率隐含概率更偏向 英格兰，约 35%，倾向强度为低。",
+            "detail": "赔率隐含概率更偏向 英格兰，约 36%，倾向强度为低。",
             "status": "positive"
           },
           {
@@ -6931,131 +6633,9 @@
           "marketUpdatePolicy": {
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
-          },
-          "aiPrediction": {
-            "model": "market-form-h2h-goals-poisson",
-            "outcomes": [
-              {
-                "key": "home",
-                "label": "法国胜",
-                "team": "法国",
-                "rawProbability": 33.8,
-                "probability": 35,
-                "reason": "法国近5场5胜0平0负，进13失1；市场基准33%。"
-              },
-              {
-                "key": "away",
-                "label": "西班牙胜",
-                "team": "西班牙",
-                "rawProbability": 32.2,
-                "probability": 33,
-                "reason": "西班牙近5场5胜0平0负，进11失1；市场基准33%。"
-              },
-              {
-                "key": "draw",
-                "label": "平局",
-                "team": "平局",
-                "rawProbability": 31.5,
-                "probability": 32,
-                "reason": "最近交锋 5-4，赛事 2024-25 UEFA Nations League；市场平局基准34%。"
-              }
-            ],
-            "scores": [
-              {
-                "label": "第一选项",
-                "score": "1-1",
-                "direction": "draw",
-                "outcomeLabel": "平局",
-                "probability": 11.72,
-                "reason": "综合最高概率比分，对应平局；模型预估进球 1.5-1.3"
-              },
-              {
-                "label": "第二选项",
-                "score": "2-1",
-                "direction": "home",
-                "outcomeLabel": "法国胜",
-                "probability": 8.91,
-                "reason": "次高概率比分，对应法国胜；模型预估进球 1.5-1.3"
-              },
-              {
-                "label": "冷门选项",
-                "score": "1-2",
-                "direction": "away",
-                "outcomeLabel": "西班牙胜",
-                "probability": 7.74,
-                "reason": "非主判断的高风险场景，对应西班牙胜；模型预估进球 1.5-1.3"
-              }
-            ],
-            "total": {
-              "pick": "大球",
-              "expectedGoals": 2.84,
-              "reason": "法国近5场场均进2.6、失0.2；西班牙场均进2.2、失0.2。"
-            },
-            "spread": {
-              "pick": "法国方向",
-              "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
-            },
-            "rationale": [
-              "市场基准：本场暂无稳定赔率概率，先以近况、交锋、进球模型与公开分析建立中性基准。",
-              "近期状态：法国5胜0平0负，进13失1；西班牙5胜0平0负，进11失1。",
-              "直接交锋：最近交锋 5-4，赛事 2024-25 UEFA Nations League。",
-              "关键球员：法国暂无公开领跑 / 西班牙暂无公开领跑。",
-              "淘汰赛进入16进8阶段，双方争胜意图更高，模型降低纯平局权重并提高主动进攻与总进球权重。"
-            ],
-            "externalSources": []
           }
         },
-        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760514/spain-france",
-        "analysisFactors": [
-          {
-            "label": "赔率市场",
-            "value": "暂无赔率",
-            "detail": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-            "status": "neutral"
-          },
-          {
-            "label": "近期状态",
-            "value": "5胜0平0负",
-            "detail": "法国 近 5 场进 13 球、失 1 球。",
-            "status": "positive"
-          },
-          {
-            "label": "近期状态",
-            "value": "5胜0平0负",
-            "detail": "西班牙 近 5 场进 11 球、失 1 球。",
-            "status": "positive"
-          },
-          {
-            "label": "历史交锋",
-            "value": "5场记录",
-            "detail": "最近一次：5-4，赛事为 2024-25 UEFA Nations League。",
-            "status": "neutral"
-          },
-          {
-            "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
-          },
-          {
-            "label": "小组压力",
-            "value": "暂无 / 暂无",
-            "detail": "法国 当前记录 暂无，西班牙 当前记录 暂无；同分时净胜球会显著影响排序。",
-            "status": "neutral"
-          },
-          {
-            "label": "关键球员",
-            "value": "暂无领跑数据",
-            "detail": "公开接口暂未返回本场明确的进球领跑球员。",
-            "status": "neutral"
-          },
-          {
-            "label": "场地/旅程",
-            "value": "Arlington, Texas",
-            "detail": "比赛地：AT&T Stadium，Arlington, Texas。",
-            "status": "neutral"
-          }
-        ]
+        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760514/spain-france"
       }
     ]
   },
