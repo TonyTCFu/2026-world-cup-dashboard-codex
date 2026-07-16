@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-16T09:26:59.748Z",
+    "generatedAt": "2026-07-16T11:53:39.107Z",
     "snapshotDate": "2026-07-16",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
@@ -2190,7 +2190,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "-115",
+                "odds": "-120",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -2218,7 +2218,7 @@
               },
               "close": {
                 "line": "+0.5",
-                "odds": "-110",
+                "odds": "-105",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -2278,7 +2278,7 @@
               },
               "close": {
                 "line": "u3.5",
-                "odds": "-140",
+                "odds": "-145",
                 "link": {
                   "rel": [
                     "under",
@@ -2341,7 +2341,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2382,16 +2382,16 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "2.05",
-                      "current": "1.87",
-                      "movement": "+4.7pct",
+                      "current": "1.83",
+                      "movement": "+5.8pct",
                       "direction": "up"
                     },
                     {
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "1.77",
-                      "current": "1.91",
-                      "movement": "-4.1pct",
+                      "current": "1.95",
+                      "movement": "-5.3pct",
                       "direction": "down"
                     }
                   ]
@@ -2412,8 +2412,8 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "2.15",
-                      "current": "1.71",
-                      "movement": "+11.8pct",
+                      "current": "1.69",
+                      "movement": "+12.7pct",
                       "direction": "up"
                     }
                   ]
@@ -2425,7 +2425,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2468,7 +2468,7 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "1.88",
+                      "current": "1.84",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2476,7 +2476,7 @@
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.92",
+                      "current": "1.96",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2491,7 +2491,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.14",
+                      "current": "2.16",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2499,7 +2499,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.71",
+                      "current": "1.70",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2512,7 +2512,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2555,7 +2555,7 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "1.86",
+                      "current": "1.82",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2563,7 +2563,7 @@
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.90",
+                      "current": "1.94",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2578,7 +2578,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.12",
+                      "current": "2.14",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2586,7 +2586,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.69",
+                      "current": "1.68",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2599,7 +2599,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2642,7 +2642,7 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "1.84",
+                      "current": "1.80",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2650,7 +2650,7 @@
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.88",
+                      "current": "1.92",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2665,7 +2665,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.10",
+                      "current": "2.11",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2673,7 +2673,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.67",
+                      "current": "1.66",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3488,7 +3488,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "+125",
+                "odds": "+120",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -3516,7 +3516,7 @@
               },
               "close": {
                 "line": "+0.5",
-                "odds": "-160",
+                "odds": "-155",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -3548,7 +3548,7 @@
               },
               "close": {
                 "line": "o2.5",
-                "odds": "+140",
+                "odds": "+135",
                 "link": {
                   "rel": [
                     "over",
@@ -3576,7 +3576,7 @@
               },
               "close": {
                 "line": "u2.5",
-                "odds": "-175",
+                "odds": "-170",
                 "link": {
                   "rel": [
                     "under",
@@ -3639,7 +3639,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3680,16 +3680,16 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "2.20",
-                      "current": "2.25",
-                      "movement": "-1.0pct",
-                      "direction": "down"
+                      "current": "2.20",
+                      "movement": "基本持平",
+                      "direction": "flat"
                     },
                     {
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "1.67",
-                      "current": "1.63",
-                      "movement": "+1.5pct",
+                      "current": "1.65",
+                      "movement": "+0.8pct",
                       "direction": "up"
                     }
                   ]
@@ -3702,17 +3702,17 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "2.40",
-                      "current": "2.40",
-                      "movement": "基本持平",
-                      "direction": "flat"
+                      "current": "2.35",
+                      "movement": "+0.9pct",
+                      "direction": "up"
                     },
                     {
                       "label": "小球",
                       "line": "u2.5",
                       "open": "1.57",
-                      "current": "1.57",
-                      "movement": "基本持平",
-                      "direction": "flat"
+                      "current": "1.59",
+                      "movement": "-0.7pct",
+                      "direction": "down"
                     }
                   ]
                 }
@@ -3723,7 +3723,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3766,7 +3766,7 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.26",
+                      "current": "2.22",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3774,7 +3774,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.64",
+                      "current": "1.66",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3789,7 +3789,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.40",
+                      "current": "2.35",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3797,7 +3797,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.57",
+                      "current": "1.59",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3810,7 +3810,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3853,7 +3853,7 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.24",
+                      "current": "2.19",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3861,7 +3861,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.62",
+                      "current": "1.64",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3876,7 +3876,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.38",
+                      "current": "2.33",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3884,7 +3884,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.55",
+                      "current": "1.58",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3897,7 +3897,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3940,7 +3940,7 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.21",
+                      "current": "2.17",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3948,7 +3948,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.60",
+                      "current": "1.63",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3963,7 +3963,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.35",
+                      "current": "2.30",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -3971,7 +3971,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.54",
+                      "current": "1.56",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -4788,7 +4788,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "-115",
+                "odds": "-120",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -4816,7 +4816,7 @@
               },
               "close": {
                 "line": "+0.5",
-                "odds": "-110",
+                "odds": "-105",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -4876,7 +4876,7 @@
               },
               "close": {
                 "line": "u3.5",
-                "odds": "-140",
+                "odds": "-145",
                 "link": {
                   "rel": [
                     "under",
@@ -4939,7 +4939,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4980,16 +4980,16 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "2.05",
-                      "current": "1.87",
-                      "movement": "+4.7pct",
+                      "current": "1.83",
+                      "movement": "+5.8pct",
                       "direction": "up"
                     },
                     {
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "1.77",
-                      "current": "1.91",
-                      "movement": "-4.1pct",
+                      "current": "1.95",
+                      "movement": "-5.3pct",
                       "direction": "down"
                     }
                   ]
@@ -5010,8 +5010,8 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "2.15",
-                      "current": "1.71",
-                      "movement": "+11.8pct",
+                      "current": "1.69",
+                      "movement": "+12.7pct",
                       "direction": "up"
                     }
                   ]
@@ -5023,7 +5023,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5066,7 +5066,7 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "1.88",
+                      "current": "1.84",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5074,7 +5074,7 @@
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.92",
+                      "current": "1.96",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5089,7 +5089,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.14",
+                      "current": "2.16",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5097,7 +5097,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.71",
+                      "current": "1.70",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5110,7 +5110,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5153,7 +5153,7 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "1.86",
+                      "current": "1.82",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5161,7 +5161,7 @@
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.90",
+                      "current": "1.94",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5176,7 +5176,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.12",
+                      "current": "2.14",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5184,7 +5184,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.69",
+                      "current": "1.68",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5197,7 +5197,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5240,7 +5240,7 @@
                       "label": "法国",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "1.84",
+                      "current": "1.80",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5248,7 +5248,7 @@
                       "label": "英格兰",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.88",
+                      "current": "1.92",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5263,7 +5263,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.10",
+                      "current": "2.11",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -5271,7 +5271,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.67",
+                      "current": "1.66",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -6086,7 +6086,7 @@
               },
               "close": {
                 "line": "-0.5",
-                "odds": "+125",
+                "odds": "+120",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -6114,7 +6114,7 @@
               },
               "close": {
                 "line": "+0.5",
-                "odds": "-160",
+                "odds": "-155",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -6146,7 +6146,7 @@
               },
               "close": {
                 "line": "o2.5",
-                "odds": "+140",
+                "odds": "+135",
                 "link": {
                   "rel": [
                     "over",
@@ -6174,7 +6174,7 @@
               },
               "close": {
                 "line": "u2.5",
-                "odds": "-175",
+                "odds": "-170",
                 "link": {
                   "rel": [
                     "under",
@@ -6237,7 +6237,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6278,16 +6278,16 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "2.20",
-                      "current": "2.25",
-                      "movement": "-1.0pct",
-                      "direction": "down"
+                      "current": "2.20",
+                      "movement": "基本持平",
+                      "direction": "flat"
                     },
                     {
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "1.67",
-                      "current": "1.63",
-                      "movement": "+1.5pct",
+                      "current": "1.65",
+                      "movement": "+0.8pct",
                       "direction": "up"
                     }
                   ]
@@ -6300,17 +6300,17 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "2.40",
-                      "current": "2.40",
-                      "movement": "基本持平",
-                      "direction": "flat"
+                      "current": "2.35",
+                      "movement": "+0.9pct",
+                      "direction": "up"
                     },
                     {
                       "label": "小球",
                       "line": "u2.5",
                       "open": "1.57",
-                      "current": "1.57",
-                      "movement": "基本持平",
-                      "direction": "flat"
+                      "current": "1.59",
+                      "movement": "-0.7pct",
+                      "direction": "down"
                     }
                   ]
                 }
@@ -6321,7 +6321,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6364,7 +6364,7 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.26",
+                      "current": "2.22",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -6372,7 +6372,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.64",
+                      "current": "1.66",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -6387,7 +6387,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.40",
+                      "current": "2.35",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -6395,7 +6395,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.57",
+                      "current": "1.59",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -6408,7 +6408,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6451,7 +6451,7 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.24",
+                      "current": "2.19",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -6459,7 +6459,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.62",
+                      "current": "1.64",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -6474,7 +6474,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.38",
+                      "current": "2.33",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -6482,7 +6482,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.55",
+                      "current": "1.58",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -6495,7 +6495,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T09:26:59.748Z",
+              "updatedAt": "2026-07-16T11:53:39.107Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6538,7 +6538,7 @@
                       "label": "西班牙",
                       "line": "-0.5",
                       "open": "N/A",
-                      "current": "2.21",
+                      "current": "2.17",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -6546,7 +6546,7 @@
                       "label": "阿根廷",
                       "line": "+0.5",
                       "open": "N/A",
-                      "current": "1.60",
+                      "current": "1.63",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -6561,7 +6561,7 @@
                       "label": "大球",
                       "line": "o2.5",
                       "open": "N/A",
-                      "current": "2.35",
+                      "current": "2.30",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -6569,7 +6569,7 @@
                       "label": "小球",
                       "line": "u2.5",
                       "open": "N/A",
-                      "current": "1.54",
+                      "current": "1.56",
                       "movement": "-",
                       "direction": "flat"
                     }
