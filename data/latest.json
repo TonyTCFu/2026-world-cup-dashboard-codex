@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-16T23:12:11.411Z",
+    "generatedAt": "2026-07-17T00:11:39.027Z",
     "snapshotDate": "2026-07-17",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
@@ -1949,7 +1949,7 @@
               },
               "close": {
                 "line": "o3.5",
-                "odds": "+110",
+                "odds": "+105",
                 "link": {
                   "rel": [
                     "over",
@@ -1977,7 +1977,7 @@
               },
               "close": {
                 "line": "u3.5",
-                "odds": "-135",
+                "odds": "-130",
                 "link": {
                   "rel": [
                     "under",
@@ -2040,7 +2040,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2103,16 +2103,16 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "1.69",
-                      "current": "2.10",
-                      "movement": "-11.6pct",
+                      "current": "2.05",
+                      "movement": "-10.4pct",
                       "direction": "down"
                     },
                     {
                       "label": "小球",
                       "line": "u3.5",
                       "open": "2.15",
-                      "current": "1.74",
-                      "movement": "+10.9pct",
+                      "current": "1.77",
+                      "movement": "+10.0pct",
                       "direction": "up"
                     }
                   ]
@@ -2124,7 +2124,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2190,7 +2190,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.10",
+                      "current": "2.05",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2198,7 +2198,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.74",
+                      "current": "1.77",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2211,7 +2211,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2277,7 +2277,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.07",
+                      "current": "2.03",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2285,7 +2285,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.72",
+                      "current": "1.75",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -2298,7 +2298,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -2364,7 +2364,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.05",
+                      "current": "2.01",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -2372,7 +2372,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.70",
+                      "current": "1.73",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -3338,7 +3338,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3422,7 +3422,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3509,7 +3509,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3596,7 +3596,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4547,7 +4547,7 @@
               },
               "close": {
                 "line": "o3.5",
-                "odds": "+110",
+                "odds": "+105",
                 "link": {
                   "rel": [
                     "over",
@@ -4575,7 +4575,7 @@
               },
               "close": {
                 "line": "u3.5",
-                "odds": "-135",
+                "odds": "-130",
                 "link": {
                   "rel": [
                     "under",
@@ -4638,7 +4638,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4701,16 +4701,16 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "1.69",
-                      "current": "2.10",
-                      "movement": "-11.6pct",
+                      "current": "2.05",
+                      "movement": "-10.4pct",
                       "direction": "down"
                     },
                     {
                       "label": "小球",
                       "line": "u3.5",
                       "open": "2.15",
-                      "current": "1.74",
-                      "movement": "+10.9pct",
+                      "current": "1.77",
+                      "movement": "+10.0pct",
                       "direction": "up"
                     }
                   ]
@@ -4722,7 +4722,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4788,7 +4788,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.10",
+                      "current": "2.05",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -4796,7 +4796,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.74",
+                      "current": "1.77",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -4809,7 +4809,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4875,7 +4875,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.07",
+                      "current": "2.03",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -4883,7 +4883,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.72",
+                      "current": "1.75",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -4896,7 +4896,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34400513",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4962,7 +4962,7 @@
                       "label": "大球",
                       "line": "o3.5",
                       "open": "N/A",
-                      "current": "2.05",
+                      "current": "2.01",
                       "movement": "-",
                       "direction": "flat"
                     },
@@ -4970,7 +4970,7 @@
                       "label": "小球",
                       "line": "u3.5",
                       "open": "N/A",
-                      "current": "1.70",
+                      "current": "1.73",
                       "movement": "-",
                       "direction": "flat"
                     }
@@ -5936,7 +5936,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6020,7 +6020,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6107,7 +6107,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6194,7 +6194,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-16T23:12:11.411Z",
+              "updatedAt": "2026-07-17T00:11:39.027Z",
               "statusNote": "",
               "markets": [
                 {
