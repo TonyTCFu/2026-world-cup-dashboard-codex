@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-19T15:14:17.272Z",
-    "snapshotDate": "2026-07-19",
+    "generatedAt": "2026-07-19T16:10:47.968Z",
+    "snapshotDate": "2026-07-20",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
     "refreshCadenceLabel": "GitHub Pages 每 1 小时",
@@ -30,195 +30,15 @@
   },
   "headline": {
     "liveCount": 0,
-    "completedCount": 1,
-    "scheduledCount": 0,
-    "summary": "今天已完成 1 场比赛，另有 0 场待开球。",
-    "storylines": []
-  },
-  "today": {
-    "date": "2026-07-19",
-    "matches": [
-      {
-        "id": "760516",
-        "date": "2026-07-18T21:00Z",
-        "localKickoff": "07/19 05:00",
-        "stage": "FIFA World Cup, 3rd-Place Match",
-        "group": "Knockout",
-        "round": "季军战",
-        "status": "post",
-        "statusLabel": "Full Time",
-        "shortDetail": "FT",
-        "shootout": null,
-        "venue": "Hard Rock Stadium",
-        "city": "Miami Gardens, Florida",
-        "homeTeam": {
-          "id": "478",
-          "rawName": "France",
-          "name": "法国",
-          "shortName": "FRA",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-          "score": "4",
-          "penaltyScore": null,
-          "winner": false,
-          "record": "",
-          "form": "LLWWW",
-          "keyPlayer": null
-        },
-        "awayTeam": {
-          "id": "448",
-          "rawName": "England",
-          "name": "英格兰",
-          "shortName": "ENG",
-          "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-          "score": "6",
-          "penaltyScore": null,
-          "winner": true,
-          "record": "",
-          "form": "WLWWW",
-          "keyPlayer": null
-        },
-        "odds": null,
-        "preview": {
-          "lean": "暂无公开赔率",
-          "confidence": "低",
-          "heat": "低",
-          "probabilityModel": "unavailable",
-          "probabilities": [],
-          "summary": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-          "bettingSources": [],
-          "scoreOdds": null,
-          "marketUpdatePolicy": {
-            "label": "双信息更新",
-            "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
-          },
-          "aiPrediction": {
-            "model": "market-form-h2h-goals-poisson",
-            "outcomes": [
-              {
-                "key": "home",
-                "label": "法国胜",
-                "team": "法国",
-                "rawProbability": 34.199999999999996,
-                "probability": 35,
-                "reason": "法国近5场4胜0平1负，进10失3；市场基准33%。"
-              },
-              {
-                "key": "draw",
-                "label": "平局",
-                "team": "平局",
-                "rawProbability": 32.1,
-                "probability": 33,
-                "reason": "最近交锋 2-1，赛事 2022 FIFA World Cup；市场平局基准34%。"
-              },
-              {
-                "key": "away",
-                "label": "英格兰胜",
-                "team": "英格兰",
-                "rawProbability": 30.599999999999998,
-                "probability": 32,
-                "reason": "英格兰近5场4胜0平1负，进10失6；市场基准33%。"
-              }
-            ],
-            "scores": [
-              {
-                "label": "第一选项",
-                "score": "1-1",
-                "direction": "draw",
-                "outcomeLabel": "平局",
-                "probability": 10.57,
-                "reason": "综合最高概率比分，对应平局；模型预估进球 1.7-1.4"
-              },
-              {
-                "label": "第二选项",
-                "score": "2-1",
-                "direction": "home",
-                "outcomeLabel": "法国胜",
-                "probability": 9.09,
-                "reason": "次高概率比分，对应法国胜；模型预估进球 1.7-1.4"
-              },
-              {
-                "label": "冷门选项",
-                "score": "1-2",
-                "direction": "away",
-                "outcomeLabel": "英格兰胜",
-                "probability": 7.51,
-                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.7-1.4"
-              }
-            ],
-            "total": {
-              "pick": "大球",
-              "expectedGoals": 3.14,
-              "reason": "法国近5场场均进2.0、失0.6；英格兰场均进2.0、失1.2。"
-            },
-            "spread": {
-              "pick": "法国方向",
-              "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
-            },
-            "rationale": [
-              "市场基准：本场暂无稳定赔率概率，先以近况、交锋、进球模型与公开分析建立中性基准。",
-              "近期状态：法国4胜0平1负，进10失3；英格兰4胜0平1负，进10失6。",
-              "直接交锋：最近交锋 2-1，赛事 2022 FIFA World Cup。",
-              "关键球员：法国暂无公开领跑 / 英格兰暂无公开领跑。",
-              "淘汰赛进入16进8阶段，双方争胜意图更高，模型降低纯平局权重并提高主动进攻与总进球权重。"
-            ],
-            "externalSources": []
-          }
-        },
-        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760516/england-france",
-        "analysisFactors": [
-          {
-            "label": "赔率市场",
-            "value": "暂无赔率",
-            "detail": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-            "status": "neutral"
-          },
-          {
-            "label": "近期状态",
-            "value": "4胜0平1负",
-            "detail": "法国 近 5 场进 10 球、失 3 球。",
-            "status": "positive"
-          },
-          {
-            "label": "近期状态",
-            "value": "4胜0平1负",
-            "detail": "英格兰 近 5 场进 10 球、失 6 球。",
-            "status": "positive"
-          },
-          {
-            "label": "历史交锋",
-            "value": "5场记录",
-            "detail": "最近一次：2-1，赛事为 2022 FIFA World Cup。",
-            "status": "neutral"
-          },
-          {
-            "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
-          },
-          {
-            "label": "小组压力",
-            "value": "暂无 / 暂无",
-            "detail": "法国 当前记录 暂无，英格兰 当前记录 暂无；同分时净胜球会显著影响排序。",
-            "status": "neutral"
-          },
-          {
-            "label": "关键球员",
-            "value": "暂无领跑数据",
-            "detail": "公开接口暂未返回本场明确的进球领跑球员。",
-            "status": "neutral"
-          },
-          {
-            "label": "场地/旅程",
-            "value": "Miami Gardens, Florida",
-            "detail": "比赛地：Hard Rock Stadium，Miami Gardens, Florida。",
-            "status": "neutral"
-          }
-        ]
-      }
+    "completedCount": 0,
+    "scheduledCount": 1,
+    "summary": "今天已完成 0 场比赛，另有 1 场待开球。",
+    "storylines": [
+      "今天还有 1 场比赛未开球，赛前预估会只保留在未开赛场次。",
+      "未开赛场次会继续显示赔率概率、盘口变化和多因素分析，方便赛前快速判断。"
     ]
   },
-  "tomorrow": {
+  "today": {
     "date": "2026-07-20",
     "matches": [
       {
@@ -508,7 +328,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -592,7 +412,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -679,7 +499,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -766,7 +586,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -1520,6 +1340,10 @@
         ]
       }
     ]
+  },
+  "tomorrow": {
+    "date": "2026-07-21",
+    "matches": []
   },
   "knockout": {
     "title": "32强对战表与冠军路径",
@@ -3283,131 +3107,9 @@
           "marketUpdatePolicy": {
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
-          },
-          "aiPrediction": {
-            "model": "market-form-h2h-goals-poisson",
-            "outcomes": [
-              {
-                "key": "home",
-                "label": "法国胜",
-                "team": "法国",
-                "rawProbability": 34.199999999999996,
-                "probability": 35,
-                "reason": "法国近5场4胜0平1负，进10失3；市场基准33%。"
-              },
-              {
-                "key": "draw",
-                "label": "平局",
-                "team": "平局",
-                "rawProbability": 32.1,
-                "probability": 33,
-                "reason": "最近交锋 2-1，赛事 2022 FIFA World Cup；市场平局基准34%。"
-              },
-              {
-                "key": "away",
-                "label": "英格兰胜",
-                "team": "英格兰",
-                "rawProbability": 30.599999999999998,
-                "probability": 32,
-                "reason": "英格兰近5场4胜0平1负，进10失6；市场基准33%。"
-              }
-            ],
-            "scores": [
-              {
-                "label": "第一选项",
-                "score": "1-1",
-                "direction": "draw",
-                "outcomeLabel": "平局",
-                "probability": 10.57,
-                "reason": "综合最高概率比分，对应平局；模型预估进球 1.7-1.4"
-              },
-              {
-                "label": "第二选项",
-                "score": "2-1",
-                "direction": "home",
-                "outcomeLabel": "法国胜",
-                "probability": 9.09,
-                "reason": "次高概率比分，对应法国胜；模型预估进球 1.7-1.4"
-              },
-              {
-                "label": "冷门选项",
-                "score": "1-2",
-                "direction": "away",
-                "outcomeLabel": "英格兰胜",
-                "probability": 7.51,
-                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.7-1.4"
-              }
-            ],
-            "total": {
-              "pick": "大球",
-              "expectedGoals": 3.14,
-              "reason": "法国近5场场均进2.0、失0.6；英格兰场均进2.0、失1.2。"
-            },
-            "spread": {
-              "pick": "法国方向",
-              "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
-            },
-            "rationale": [
-              "市场基准：本场暂无稳定赔率概率，先以近况、交锋、进球模型与公开分析建立中性基准。",
-              "近期状态：法国4胜0平1负，进10失3；英格兰4胜0平1负，进10失6。",
-              "直接交锋：最近交锋 2-1，赛事 2022 FIFA World Cup。",
-              "关键球员：法国暂无公开领跑 / 英格兰暂无公开领跑。",
-              "淘汰赛进入16进8阶段，双方争胜意图更高，模型降低纯平局权重并提高主动进攻与总进球权重。"
-            ],
-            "externalSources": []
           }
         },
-        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760516/england-france",
-        "analysisFactors": [
-          {
-            "label": "赔率市场",
-            "value": "暂无赔率",
-            "detail": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-            "status": "neutral"
-          },
-          {
-            "label": "近期状态",
-            "value": "4胜0平1负",
-            "detail": "法国 近 5 场进 10 球、失 3 球。",
-            "status": "positive"
-          },
-          {
-            "label": "近期状态",
-            "value": "4胜0平1负",
-            "detail": "英格兰 近 5 场进 10 球、失 6 球。",
-            "status": "positive"
-          },
-          {
-            "label": "历史交锋",
-            "value": "5场记录",
-            "detail": "最近一次：2-1，赛事为 2022 FIFA World Cup。",
-            "status": "neutral"
-          },
-          {
-            "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
-          },
-          {
-            "label": "小组压力",
-            "value": "暂无 / 暂无",
-            "detail": "法国 当前记录 暂无，英格兰 当前记录 暂无；同分时净胜球会显著影响排序。",
-            "status": "neutral"
-          },
-          {
-            "label": "关键球员",
-            "value": "暂无领跑数据",
-            "detail": "公开接口暂未返回本场明确的进球领跑球员。",
-            "status": "neutral"
-          },
-          {
-            "label": "场地/旅程",
-            "value": "Miami Gardens, Florida",
-            "detail": "比赛地：Hard Rock Stadium，Miami Gardens, Florida。",
-            "status": "neutral"
-          }
-        ]
+        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760516/england-france"
       },
       {
         "id": "760517",
@@ -3696,7 +3398,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3780,7 +3482,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3867,7 +3569,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3954,7 +3656,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4996,7 +4698,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5080,7 +4782,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5167,7 +4869,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5254,7 +4956,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T15:14:17.272Z",
+              "updatedAt": "2026-07-19T16:10:47.968Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6457,131 +6159,9 @@
           "marketUpdatePolicy": {
             "label": "双信息更新",
             "detail": "当前静态 Dashboard 固定每 1 小时更新；实时赔率抓取频率将由后续独立数据源决定。"
-          },
-          "aiPrediction": {
-            "model": "market-form-h2h-goals-poisson",
-            "outcomes": [
-              {
-                "key": "home",
-                "label": "法国胜",
-                "team": "法国",
-                "rawProbability": 34.199999999999996,
-                "probability": 35,
-                "reason": "法国近5场4胜0平1负，进10失3；市场基准33%。"
-              },
-              {
-                "key": "draw",
-                "label": "平局",
-                "team": "平局",
-                "rawProbability": 32.1,
-                "probability": 33,
-                "reason": "最近交锋 2-1，赛事 2022 FIFA World Cup；市场平局基准34%。"
-              },
-              {
-                "key": "away",
-                "label": "英格兰胜",
-                "team": "英格兰",
-                "rawProbability": 30.599999999999998,
-                "probability": 32,
-                "reason": "英格兰近5场4胜0平1负，进10失6；市场基准33%。"
-              }
-            ],
-            "scores": [
-              {
-                "label": "第一选项",
-                "score": "1-1",
-                "direction": "draw",
-                "outcomeLabel": "平局",
-                "probability": 10.57,
-                "reason": "综合最高概率比分，对应平局；模型预估进球 1.7-1.4"
-              },
-              {
-                "label": "第二选项",
-                "score": "2-1",
-                "direction": "home",
-                "outcomeLabel": "法国胜",
-                "probability": 9.09,
-                "reason": "次高概率比分，对应法国胜；模型预估进球 1.7-1.4"
-              },
-              {
-                "label": "冷门选项",
-                "score": "1-2",
-                "direction": "away",
-                "outcomeLabel": "英格兰胜",
-                "probability": 7.51,
-                "reason": "非主判断的高风险场景，对应英格兰胜；模型预估进球 1.7-1.4"
-              }
-            ],
-            "total": {
-              "pick": "大球",
-              "expectedGoals": 3.14,
-              "reason": "法国近5场场均进2.0、失0.6；英格兰场均进2.0、失1.2。"
-            },
-            "spread": {
-              "pick": "法国方向",
-              "reason": "让分参考综合倾向、近况差和盘口价格，不单独作为胜负结论。"
-            },
-            "rationale": [
-              "市场基准：本场暂无稳定赔率概率，先以近况、交锋、进球模型与公开分析建立中性基准。",
-              "近期状态：法国4胜0平1负，进10失3；英格兰4胜0平1负，进10失6。",
-              "直接交锋：最近交锋 2-1，赛事 2022 FIFA World Cup。",
-              "关键球员：法国暂无公开领跑 / 英格兰暂无公开领跑。",
-              "淘汰赛进入16进8阶段，双方争胜意图更高，模型降低纯平局权重并提高主动进攻与总进球权重。"
-            ],
-            "externalSources": []
           }
         },
-        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760516/england-france",
-        "analysisFactors": [
-          {
-            "label": "赔率市场",
-            "value": "暂无赔率",
-            "detail": "当前接口未返回这场比赛的公开赔率，页面先按积分和近期走势做中性观察。",
-            "status": "neutral"
-          },
-          {
-            "label": "近期状态",
-            "value": "4胜0平1负",
-            "detail": "法国 近 5 场进 10 球、失 3 球。",
-            "status": "positive"
-          },
-          {
-            "label": "近期状态",
-            "value": "4胜0平1负",
-            "detail": "英格兰 近 5 场进 10 球、失 6 球。",
-            "status": "positive"
-          },
-          {
-            "label": "历史交锋",
-            "value": "5场记录",
-            "detail": "最近一次：2-1，赛事为 2022 FIFA World Cup。",
-            "status": "neutral"
-          },
-          {
-            "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
-          },
-          {
-            "label": "小组压力",
-            "value": "暂无 / 暂无",
-            "detail": "法国 当前记录 暂无，英格兰 当前记录 暂无；同分时净胜球会显著影响排序。",
-            "status": "neutral"
-          },
-          {
-            "label": "关键球员",
-            "value": "暂无领跑数据",
-            "detail": "公开接口暂未返回本场明确的进球领跑球员。",
-            "status": "neutral"
-          },
-          {
-            "label": "场地/旅程",
-            "value": "Miami Gardens, Florida",
-            "detail": "比赛地：Hard Rock Stadium，Miami Gardens, Florida。",
-            "status": "neutral"
-          }
-        ]
+        "summaryLink": "https://www.espn.com/soccer/match/_/gameId/760516/england-france"
       }
     ]
   },
