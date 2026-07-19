@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-19T19:31:08.392Z",
+    "generatedAt": "2026-07-19T21:06:33.611Z",
     "snapshotDate": "2026-07-20",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
@@ -48,8 +48,8 @@
         "group": "Knockout",
         "round": "决赛",
         "status": "in",
-        "statusLabel": "In Progress",
-        "shortDetail": "25'",
+        "statusLabel": "Second Half",
+        "shortDetail": "89'",
         "shootout": null,
         "venue": "MetLife Stadium",
         "city": "East Rutherford, New Jersey",
@@ -90,7 +90,7 @@
                 "odds": "+125"
               },
               "current": {
-                "odds": "+130",
+                "odds": "+360",
                 "link": {
                   "rel": [
                     "home",
@@ -118,7 +118,7 @@
                 "odds": "+265"
               },
               "current": {
-                "odds": "+270",
+                "odds": "+950",
                 "link": {
                   "rel": [
                     "away",
@@ -146,7 +146,7 @@
                 "odds": "+205"
               },
               "current": {
-                "odds": "+180",
+                "odds": "-295",
                 "link": {
                   "rel": [
                     "draw",
@@ -181,7 +181,7 @@
               },
               "current": {
                 "line": "-0.5",
-                "odds": "+120",
+                "odds": "+340",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -213,7 +213,7 @@
               },
               "current": {
                 "line": "+0.5",
-                "odds": "-155",
+                "odds": "-475",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -248,14 +248,14 @@
                 "odds": "+130"
               },
               "current": {
-                "line": "o1.5",
-                "odds": "-148",
+                "line": "o0.5",
+                "odds": "+221",
                 "link": {
                   "rel": [
                     "over",
                     "bets"
                   ],
-                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155O150_1",
+                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155O50_1",
                   "tracking": {
                     "campaign": "betting-integrations",
                     "tags": {
@@ -264,7 +264,7 @@
                       "gameId": 760517,
                       "betSide": "over",
                       "betType": "straight",
-                      "betDetails": "Over:1.5"
+                      "betDetails": "Over:0.5"
                     }
                   }
                 }
@@ -280,14 +280,14 @@
                 "odds": "-160"
               },
               "current": {
-                "line": "u1.5",
-                "odds": "+125",
+                "line": "u0.5",
+                "odds": "-271",
                 "link": {
                   "rel": [
                     "under",
                     "bets"
                   ],
-                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155U150_3",
+                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155U50_3",
                   "tracking": {
                     "campaign": "betting-integrations",
                     "tags": {
@@ -296,7 +296,7 @@
                       "gameId": 760517,
                       "betSide": "under",
                       "betType": "straight",
-                      "betDetails": "Under:1.5"
+                      "betDetails": "Under:0.5"
                     }
                   }
                 }
@@ -344,7 +344,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -428,7 +428,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -515,7 +515,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -602,7 +602,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -1331,9 +1331,9 @@
           },
           {
             "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
+            "value": "发现相关新闻",
+            "detail": "Argentina lose Martínez, Romero to injury in World Cup final vs. Spain",
+            "status": "warning"
           },
           {
             "label": "小组压力",
@@ -3135,8 +3135,8 @@
         "group": "Knockout",
         "round": "决赛",
         "status": "in",
-        "statusLabel": "In Progress",
-        "shortDetail": "25'",
+        "statusLabel": "Second Half",
+        "shortDetail": "89'",
         "shootout": null,
         "venue": "MetLife Stadium",
         "city": "East Rutherford, New Jersey",
@@ -3177,7 +3177,7 @@
                 "odds": "+125"
               },
               "current": {
-                "odds": "+130",
+                "odds": "+360",
                 "link": {
                   "rel": [
                     "home",
@@ -3205,7 +3205,7 @@
                 "odds": "+265"
               },
               "current": {
-                "odds": "+270",
+                "odds": "+950",
                 "link": {
                   "rel": [
                     "away",
@@ -3233,7 +3233,7 @@
                 "odds": "+205"
               },
               "current": {
-                "odds": "+180",
+                "odds": "-295",
                 "link": {
                   "rel": [
                     "draw",
@@ -3268,7 +3268,7 @@
               },
               "current": {
                 "line": "-0.5",
-                "odds": "+120",
+                "odds": "+340",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -3300,7 +3300,7 @@
               },
               "current": {
                 "line": "+0.5",
-                "odds": "-155",
+                "odds": "-475",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -3335,14 +3335,14 @@
                 "odds": "+130"
               },
               "current": {
-                "line": "o1.5",
-                "odds": "-148",
+                "line": "o0.5",
+                "odds": "+221",
                 "link": {
                   "rel": [
                     "over",
                     "bets"
                   ],
-                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155O150_1",
+                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155O50_1",
                   "tracking": {
                     "campaign": "betting-integrations",
                     "tags": {
@@ -3351,7 +3351,7 @@
                       "gameId": 760517,
                       "betSide": "over",
                       "betType": "straight",
-                      "betDetails": "Over:1.5"
+                      "betDetails": "Over:0.5"
                     }
                   }
                 }
@@ -3367,14 +3367,14 @@
                 "odds": "-160"
               },
               "current": {
-                "line": "u1.5",
-                "odds": "+125",
+                "line": "u0.5",
+                "odds": "-271",
                 "link": {
                   "rel": [
                     "under",
                     "bets"
                   ],
-                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155U150_3",
+                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155U50_3",
                   "tracking": {
                     "campaign": "betting-integrations",
                     "tags": {
@@ -3383,7 +3383,7 @@
                       "gameId": 760517,
                       "betSide": "under",
                       "betType": "straight",
-                      "betDetails": "Under:1.5"
+                      "betDetails": "Under:0.5"
                     }
                   }
                 }
@@ -3431,7 +3431,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3515,7 +3515,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3602,7 +3602,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -3689,7 +3689,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -4418,9 +4418,9 @@
           },
           {
             "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
+            "value": "发现相关新闻",
+            "detail": "Argentina lose Martínez, Romero to injury in World Cup final vs. Spain",
+            "status": "warning"
           },
           {
             "label": "小组压力",
@@ -4845,8 +4845,8 @@
         "group": "Knockout",
         "round": "决赛",
         "status": "in",
-        "statusLabel": "In Progress",
-        "shortDetail": "25'",
+        "statusLabel": "Second Half",
+        "shortDetail": "89'",
         "shootout": null,
         "venue": "MetLife Stadium",
         "city": "East Rutherford, New Jersey",
@@ -4887,7 +4887,7 @@
                 "odds": "+125"
               },
               "current": {
-                "odds": "+130",
+                "odds": "+360",
                 "link": {
                   "rel": [
                     "home",
@@ -4915,7 +4915,7 @@
                 "odds": "+265"
               },
               "current": {
-                "odds": "+270",
+                "odds": "+950",
                 "link": {
                   "rel": [
                     "away",
@@ -4943,7 +4943,7 @@
                 "odds": "+205"
               },
               "current": {
-                "odds": "+180",
+                "odds": "-295",
                 "link": {
                   "rel": [
                     "draw",
@@ -4978,7 +4978,7 @@
               },
               "current": {
                 "line": "-0.5",
-                "odds": "+120",
+                "odds": "+340",
                 "link": {
                   "rel": [
                     "homeSpread",
@@ -5010,7 +5010,7 @@
               },
               "current": {
                 "line": "+0.5",
-                "odds": "-155",
+                "odds": "-475",
                 "link": {
                   "rel": [
                     "awaySpread",
@@ -5045,14 +5045,14 @@
                 "odds": "+130"
               },
               "current": {
-                "line": "o1.5",
-                "odds": "-148",
+                "line": "o0.5",
+                "odds": "+221",
                 "link": {
                   "rel": [
                     "over",
                     "bets"
                   ],
-                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155O150_1",
+                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155O50_1",
                   "tracking": {
                     "campaign": "betting-integrations",
                     "tags": {
@@ -5061,7 +5061,7 @@
                       "gameId": 760517,
                       "betSide": "over",
                       "betType": "straight",
-                      "betDetails": "Over:1.5"
+                      "betDetails": "Over:0.5"
                     }
                   }
                 }
@@ -5077,14 +5077,14 @@
                 "odds": "-160"
               },
               "current": {
-                "line": "u1.5",
-                "odds": "+125",
+                "line": "u0.5",
+                "odds": "-271",
                 "link": {
                   "rel": [
                     "under",
                     "bets"
                   ],
-                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155U150_3",
+                  "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244%3Foutcomes%3D0OU85511155U50_3",
                   "tracking": {
                     "campaign": "betting-integrations",
                     "tags": {
@@ -5093,7 +5093,7 @@
                       "gameId": 760517,
                       "betSide": "under",
                       "betType": "straight",
-                      "betDetails": "Under:1.5"
+                      "betDetails": "Under:0.5"
                     }
                   }
                 }
@@ -5141,7 +5141,7 @@
               "status": "active",
               "statusLabel": "稳定来源",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5225,7 +5225,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5312,7 +5312,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -5399,7 +5399,7 @@
               "status": "modeled",
               "statusLabel": "模型折算",
               "sourceUrl": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34399244",
-              "updatedAt": "2026-07-19T19:31:08.392Z",
+              "updatedAt": "2026-07-19T21:06:33.611Z",
               "statusNote": "",
               "markets": [
                 {
@@ -6128,9 +6128,9 @@
           },
           {
             "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
+            "value": "发现相关新闻",
+            "detail": "Argentina lose Martínez, Romero to injury in World Cup final vs. Spain",
+            "status": "warning"
           },
           {
             "label": "小组压力",
