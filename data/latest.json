@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-20T07:28:21.065Z",
+    "generatedAt": "2026-07-20T11:12:17.547Z",
     "snapshotDate": "2026-07-20",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
@@ -192,9 +192,9 @@
           },
           {
             "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
+            "value": "发现相关新闻",
+            "detail": "Rodri reflects on path from ACL tear to World Cup glory: I want to thank myself",
+            "status": "warning"
           },
           {
             "label": "小组压力",
@@ -2142,9 +2142,9 @@
           },
           {
             "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
+            "value": "发现相关新闻",
+            "detail": "Rodri reflects on path from ACL tear to World Cup glory: I want to thank myself",
+            "status": "warning"
           },
           {
             "label": "小组压力",
@@ -2715,9 +2715,9 @@
           },
           {
             "label": "伤停/阵容",
-            "value": "未见公开伤停",
-            "detail": "当前公开 summary/news 接口未发现主力伤停关键词，仍建议赛前结合官方名单复核。",
-            "status": "neutral"
+            "value": "发现相关新闻",
+            "detail": "Rodri reflects on path from ACL tear to World Cup glory: I want to thank myself",
+            "status": "warning"
           },
           {
             "label": "小组压力",
