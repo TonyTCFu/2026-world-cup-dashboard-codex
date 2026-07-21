@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "2026 世界杯每日赛程快报及战况分析",
-    "generatedAt": "2026-07-21T14:20:50.929Z",
-    "snapshotDate": "2026-07-21",
+    "generatedAt": "2026-07-21T16:40:23.836Z",
+    "snapshotDate": "2026-07-22",
     "timezone": "Asia/Shanghai",
     "refreshCadenceHours": 1,
     "refreshCadenceLabel": "GitHub Pages 每 1 小时",
@@ -36,11 +36,11 @@
     "storylines": []
   },
   "today": {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "matches": []
   },
   "tomorrow": {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "matches": []
   },
   "knockout": {
